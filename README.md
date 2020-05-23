@@ -31,3 +31,7 @@ The problems are listed below :
 13: Java Currency Formatter
 
 14: Java Strings Introduction
+
+15: Java Substring
+
+16: Java Substring Comparison
