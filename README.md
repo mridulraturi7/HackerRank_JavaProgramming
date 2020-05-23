@@ -27,3 +27,7 @@ The problems are listed below :
 11: Java Int To String
 
 12: Java Date And Time
+
+13: Java Currency Formatter
+
+14: Java Strings Introduction
