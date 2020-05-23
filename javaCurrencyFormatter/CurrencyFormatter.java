@@ -11,8 +11,6 @@ public class CurrencyFormatter {
         double payment = scanner.nextDouble();
         scanner.close();
 
-        // Write your code here.
-
         NumberFormat nf = NumberFormat.getInstance();
         String us = nf.getCurrencyInstance(Locale.US).format(payment);
         String china = nf.getCurrencyInstance(Locale.CHINA).format(payment);
