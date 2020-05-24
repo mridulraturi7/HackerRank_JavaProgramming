@@ -41,3 +41,5 @@ The problems are listed below :
 18: Java Anagrams
 
 19: Java String Tokens
+
+20: Java Pattern Syntax Checker
