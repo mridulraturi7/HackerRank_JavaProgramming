@@ -37,3 +37,5 @@ The problems are listed below :
 16: Java Substring Comparison
 
 17: Java String Reverse
+
+18: Java Anagrams
