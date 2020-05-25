@@ -45,3 +45,5 @@ The problems are listed below :
 20: Java Pattern Syntax Checker
 
 21: Java Regex
+
+22: Java Regex 2 - Duplicate Words
