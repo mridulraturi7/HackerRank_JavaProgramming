@@ -47,3 +47,5 @@ The problems are listed below :
 21: Java Regex
 
 22: Java Regex 2 - Duplicate Words
+
+23: Java Valid Username Regular Expression
