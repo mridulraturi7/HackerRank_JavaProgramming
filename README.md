@@ -49,3 +49,4 @@ The problems are listed below :
 22: Java Regex 2 - Duplicate Words
 
 23: Java Valid Username Regular Expression
+24: Java Tag Content Extractor
