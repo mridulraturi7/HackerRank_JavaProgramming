@@ -1,7 +1,8 @@
 package javaTagContentExtractor;
 
 import java.util.Scanner;
-import java.util.regex.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class ContentExtractor
 {
@@ -9,7 +10,8 @@ public class ContentExtractor
 		
 		Scanner in = new Scanner(System.in);
 		int testCases = Integer.parseInt(in.nextLine());
-		while(testCases>0){
+        
+        while(testCases>0){
 			String line = in.nextLine();
             
             boolean matchFound = false;
