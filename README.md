@@ -52,4 +52,4 @@ The problems are listed below :
 
 24: Java Tag Content Extractor
 
-25: Java One D Array
+25: Java One Dimensional Array
