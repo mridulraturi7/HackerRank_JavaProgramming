@@ -1,10 +1,12 @@
 package javaInheritance1;
 
-class Animal{
+class Animal
+{
 	void walk()
 	{
 		System.out.println("I am walking");
-	}
+    }
+    
 }
 class Bird extends Animal
 {
