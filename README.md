@@ -55,3 +55,4 @@ The problems are listed below :
 25: Java One Dimensional Array
 
 26: Java Two Dimensional Array
+27: Java Inhritance 1
