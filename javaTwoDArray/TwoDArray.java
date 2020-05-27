@@ -1,5 +1,8 @@
 package javaTwoDArray;
 
+import java.util.Arrays;
+import java.util.Scanner;
+
 public class TwoDArray {
 
     private static final Scanner scanner = new Scanner(System.in);
