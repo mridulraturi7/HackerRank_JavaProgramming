@@ -1,4 +1,4 @@
-package javaInheritanceTwo;
+package javaInheritance2;
 
 class Arithmetic
 {
