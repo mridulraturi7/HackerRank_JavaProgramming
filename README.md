@@ -56,6 +56,6 @@ The problems are listed below :
 
 26: Java Two Dimensional Array
 
-27: Java Inheritance 1
+27: Java Inheritance I
 
-28: Java Inheritance 2
+28: Java Inheritance II
