@@ -22,7 +22,7 @@ public class ListExample {
         }
 
         int q = scan.nextInt();
-        while(q != 0)
+        while(q > 0)
         {
             String str = scan.next();
             if(str.equals("Insert"))
