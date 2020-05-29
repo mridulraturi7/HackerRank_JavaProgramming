@@ -24,9 +24,12 @@ public class TryCatch {
             {
                 System.out.println(x/y);
             }
-        }catch(InputMismatchException me){
+
+        }
+        catch(InputMismatchException me){
                 System.out.println(me.getClass().getName());
-        }catch(ArithmeticException ae){
+        }
+        catch(ArithmeticException ae){
             System.out.println(ae);
         }
 
