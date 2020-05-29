@@ -13,6 +13,8 @@ public class TryCatch {
             int x = scan.nextInt();
             int y = scan.nextInt();
 
+            scan.close();
+
             if(y == 0)
             {
                 throw new ArithmeticException("/ by zero");
