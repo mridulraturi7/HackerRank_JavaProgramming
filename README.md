@@ -4,60 +4,60 @@ The repository contains solutions of the Java Problems available on the HackerRa
 
 The problems are listed below : 
 
-1: Welcome to Java
+1 : Welcome to Java
 
-2: Java Stdin and Stdout 1
+2 : Java Stdin and Stdout 1
 
-3: Java If - Else
+3 : Java If - Else
 
-4: Java Stdin and Stdout 2
+4 : Java Stdin and Stdout 2
 
-5: Java Output Formatting
+5 : Java Output Formatting
 
-6: Java Loops 1
+6 : Java Loops 1
 
-7: Java Loops 2
+7 : Java Loops 2
 
-8: Java Datatypes
+8 : Java Datatypes
 
-9: Java End of File
+9 : Java End of File
 
-10: Java Static Initializer Block
+10 : Java Static Initializer Block
 
-11: Java Int To String
+11 : Java Int To String
 
-12: Java Date And Time
+12 : Java Date And Time
 
-13: Java Currency Formatter
+13 : Java Currency Formatter
 
-14: Java Strings Introduction
+14 : Java Strings Introduction
 
-15: Java Substring
+15 : Java Substring
 
-16: Java Substring Comparison
+16 : Java Substring Comparison
 
-17: Java String Reverse
+17 : Java String Reverse
 
-18: Java Anagrams
+18 : Java Anagrams
 
-19: Java String Tokens
+19 : Java String Tokens
 
-20: Java Pattern Syntax Checker
+20 : Java Pattern Syntax Checker
 
-21: Java Regex
+21 : Java Regex
 
-22: Java Regex 2 - Duplicate Words
+22 : Java Regex 2 - Duplicate Words
 
-23: Java Valid Username Regular Expression
+23 : Java Valid Username Regular Expression
 
-24: Java Tag Content Extractor
+24 : Java Tag Content Extractor
 
-25: Java One Dimensional Array
+25 : Java One Dimensional Array
 
-26: Java Two Dimensional Array
+26 : Java Two Dimensional Array
 
-27: Java Inheritance I
+27 : Java Inheritance I
 
-28: Java Inheritance II
+28 : Java Inheritance II
 
-29: Java Exception Handling(Try - Catch)
+29 : Java Exception Handling(Try - Catch)
