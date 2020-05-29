@@ -41,6 +41,8 @@ public class ListExample {
             q--;
         }
 
+        scan.close();
+
         for(int i : list)
         {
             System.out.printf("%d ", i);
