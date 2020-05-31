@@ -4,9 +4,6 @@ import java.util.Scanner;
 import java.lang.Math;
 
 class MyCalculator {
-    /*
-    * Create the method long power(int, int) here.
-    */
     
     long power(int n, int p) throws Exception
     {
