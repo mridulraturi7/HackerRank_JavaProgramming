@@ -18,6 +18,8 @@ public class BigIntegerExample {
         System.out.println(c);
         System.out.println(d);
 
+        scan.close();
+
     }
     
 }
