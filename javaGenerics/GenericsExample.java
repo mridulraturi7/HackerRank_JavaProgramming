@@ -1,6 +1,5 @@
 package javaGenerics;
 
-import java.io.IOException;
 import java.lang.reflect.Method;
 
 class Printer <T>
