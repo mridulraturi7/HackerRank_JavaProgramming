@@ -14,6 +14,9 @@ public class BigIntegerExample {
         BigInteger c = a.add(b);
         BigInteger d = a.multiply(b);
 
+        System.out.println(c);
+        System.out.println(d);
+
     }
     
 }
