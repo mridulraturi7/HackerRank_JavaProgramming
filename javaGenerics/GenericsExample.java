@@ -1,5 +1,8 @@
 package javaGenerics;
 
+import java.io.IOException;
+import java.lang.reflect.Method;
+
 class Printer <T>
 {
     public void printArray(T[] array)
