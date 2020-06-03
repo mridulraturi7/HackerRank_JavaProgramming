@@ -73,3 +73,5 @@ The problems are listed below :
 34 : Java Generics.
 
 35 : Java Method Overriding.
+
+36 : Java Method Overriding Two.
