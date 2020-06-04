@@ -77,3 +77,5 @@ The problems are listed below :
 36 : Java Method Overriding Two (Super Keyword).
 
 37 : Java BigDecimal.
+
+38 : Java Primality Test.
