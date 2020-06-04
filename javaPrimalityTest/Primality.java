@@ -1,5 +1,7 @@
 package javaPrimalityTest;
 
+import java.util.Scanner;
+
 public class Primality {
 
     private static final Scanner scanner = new Scanner(System.in);
