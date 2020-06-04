@@ -10,6 +10,19 @@ public class Primality {
         String n = scanner.nextLine();
 
         scanner.close();
+
+        BigInteger a = new BigInteger(n);
+
+        if(a.isProbablePrime(1))
+        {
+            System.out.println("prime");
+        }
+
+        else
+        {
+            System.out.println("not prime");
+        }
+        
     }
     
 }
