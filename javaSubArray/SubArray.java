@@ -19,6 +19,8 @@ public class SubArray {
             n--;
         }
 
+        scan.close();
+
         int count = 0;
 
         for(int i = 0; i < array.length; i++)
