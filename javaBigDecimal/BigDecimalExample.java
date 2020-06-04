@@ -3,6 +3,7 @@ package javaBigDecimal;
 import java.math.BigDecimal;
 import java.util.Comparator;
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class BigDecimalExample {
 
