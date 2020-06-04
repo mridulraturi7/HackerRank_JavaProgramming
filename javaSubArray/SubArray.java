@@ -19,6 +19,25 @@ public class SubArray {
             n--;
         }
 
+        int count = 0;
+
+        for(int i = 0; i < array.length; i++)
+        {
+            for(int j = i; j < array.length; j++)
+            {
+                int sum = 0;
+                for(int k = i; k <= j; k++)
+                {
+                    sum = sum + array[k];
+                }
+                if(sum < 0)
+                {
+                    count++;
+                }
+            }
+        }
+
+        System.out.println(count);
         
     }
     
