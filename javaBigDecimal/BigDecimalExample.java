@@ -1,5 +1,7 @@
 package javaBigDecimal;
 
+import java.util.Scanner;
+
 public class BigDecimalExample {
 
     public static void main(String []args){
