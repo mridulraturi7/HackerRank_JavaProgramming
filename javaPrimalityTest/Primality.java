@@ -1,6 +1,7 @@
 package javaPrimalityTest;
 
 import java.util.Scanner;
+import java.math.BigInteger;
 
 public class Primality {
 
@@ -22,7 +23,7 @@ public class Primality {
         {
             System.out.println("not prime");
         }
-        
+
     }
     
 }
