@@ -8,11 +8,9 @@ public class ArrayListExample {
     private static ArrayList<ArrayList<Integer>> myList = new ArrayList<ArrayList<Integer>>();
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-
+        
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
-        //scan.nextLine();
         int j = 0;
 
         while(n>0)
@@ -51,19 +49,6 @@ public class ArrayListExample {
 
     public static void check(int x, int y)
     {
-       /*         //int value = myList.get(x-1).get(y-1);
-                if(x-1 < myList.size() && y-1 < myList.get(x-1).size())
-                {
-                    if(myList.get(x-1).get(y-1) != null)
-                    {
-                        System.out.println(myList.get(x-1).get(y-1));
-                    }
-                }
-
-                else
-                {
-                    System.out.println("ERROR!");
-                }*/
         try
         {
             System.out.println(myList.get(x-1).get(y-1));
