@@ -1,5 +1,8 @@
 package javaMap;
 
+import java.util.Scanner;
+import java.util.Map;
+
 public class MapExample {
 
     public static void main(String []argh)
