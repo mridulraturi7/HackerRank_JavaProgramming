@@ -30,7 +30,8 @@ public class MapExample {
             {
                 System.out.println("Not found");
             }
-		}
+        }
+        in.close();
 	}
     
 }
