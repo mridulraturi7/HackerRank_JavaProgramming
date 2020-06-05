@@ -46,6 +46,7 @@ public class ArrayListExample {
             check(x,y);
             q--;
         }
+        scan.close();
     }
 
     public static void check(int x, int y)
