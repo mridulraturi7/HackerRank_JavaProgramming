@@ -1,5 +1,8 @@
 package javaArrayList;
 
+import java.util.Scanner;
+import java.util.ArrayList;
+
 public class ArrayListExample {
 
     private static ArrayList<ArrayList<Integer>> myList = new ArrayList<ArrayList<Integer>>();
