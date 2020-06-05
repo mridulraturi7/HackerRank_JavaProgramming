@@ -47,5 +47,30 @@ public class ArrayListExample {
             q--;
         }
     }
+
+    public static void check(int x, int y)
+    {
+       /*         //int value = myList.get(x-1).get(y-1);
+                if(x-1 < myList.size() && y-1 < myList.get(x-1).size())
+                {
+                    if(myList.get(x-1).get(y-1) != null)
+                    {
+                        System.out.println(myList.get(x-1).get(y-1));
+                    }
+                }
+
+                else
+                {
+                    System.out.println("ERROR!");
+                }*/
+        try
+        {
+            System.out.println(myList.get(x-1).get(y-1));
+        }
+        catch(Exception e)
+        {
+            System.out.println("ERROR!");
+        }
+    }
     
 }
