@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class Array2 {
 
-    Scanner scan = new Scanner(System.in);
+    public static void main(String[] args) {
+        
+        Scanner scan = new Scanner(System.in);
         int q = scan.nextInt();
         while (q-- > 0) {
             int n = scan.nextInt();
@@ -18,6 +20,7 @@ public class Array2 {
             System.out.println( (canWin(leap, game)) ? "YES" : "NO" );
         }
         scan.close();
+
     }
     
 }
