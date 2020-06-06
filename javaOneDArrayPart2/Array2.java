@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Array2 {
 
     public static boolean canWin(int leap, int[] game) {
-        // Return true if you can win the game; otherwise, return false.
 
         if(game == null)
         {
