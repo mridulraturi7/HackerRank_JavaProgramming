@@ -1,5 +1,7 @@
 package javaOneDArrayPart2;
 
+import java.util.Scanner;
+
 public class Array2 {
 
     Scanner scan = new Scanner(System.in);
