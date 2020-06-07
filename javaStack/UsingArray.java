@@ -2,7 +2,7 @@ package javaStack;
 
 import java.util.Scanner;
 
-public class BalancedStack {
+public class UsingArray {
 
     public static void main(String []argh)
 	{
@@ -85,7 +85,6 @@ public class BalancedStack {
 
     for(int i = 0; i < length; i++)
     {
-        System.out.println(array[i]);
         if(array[i] != 'v')
         {
             return false;
