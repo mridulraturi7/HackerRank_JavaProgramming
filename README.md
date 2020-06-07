@@ -91,3 +91,5 @@ The problems are listed below :
 43 : Java Stack.
 
     43.1 : Using Array.
+
+    43.2 : Using Stack.
