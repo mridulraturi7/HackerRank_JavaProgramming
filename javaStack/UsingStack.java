@@ -13,38 +13,38 @@ public class UsingStack {
         {
             String input=sc.next();
 
-            Stack<Character> stacky = new Stack<>();
+            Stack<Character> myStack = new Stack<>();
             for (int i = 0; i < input.length(); i++) 
             {
-                if (!stacky.isEmpty()) 
+                if (!myStack.isEmpty()) 
                 {
                     switch(input.charAt(i)) 
                     {
-                        case '}' : if (stacky.peek() == '{') 
+                        case '}' : if (myStack.peek() == '{') 
                         {
-                            stacky.pop();
+                            myStack.pop();
                             break;
-                        } //break;
-                        case ']' : if (stacky.peek() == '[') 
+                        }
+                        case ']' : if (myStack.peek() == '[') 
                         {
-                            stacky.pop();
+                            myStack.pop();
                             break;
-                        } //break;
-                        case ')' : if (stacky.peek() == '(') 
+                        }
+                        case ')' : if (myStack.peek() == '(') 
                         {
-                            stacky.pop();
+                            myStack.pop();
                             break;
                         } 
-                        default: stacky.push(input.charAt(i));
+                        default: myStack.push(input.charAt(i));
                     }
                 }
                 else 
                 {
-                    stacky.push(input.charAt(i));
+                    myStack.push(input.charAt(i));
                 }
             }
             
-            System.out.println(stacky.isEmpty());
+            System.out.println(myStack.isEmpty());
         } 
         sc.close();
     }
