@@ -46,6 +46,7 @@ public class BalancedStack {
                 {
                     array[i] = 'v';
                     array[j] = 'v';
+                    break;
                     //char ch = myStack.pop();
                 }
             }
@@ -60,6 +61,7 @@ public class BalancedStack {
                 {
                     array[j] = 'v';
                     array[i] = 'v';
+                    break;
                     //char ch = myStack.pop();
                 }
             }
@@ -74,6 +76,7 @@ public class BalancedStack {
                 {
                     array[j] = 'v';
                     array[i] = 'v';
+                    break;
                     //char ch = myStack.pop();
                 }
             }
