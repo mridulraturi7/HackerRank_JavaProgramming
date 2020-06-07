@@ -36,7 +36,6 @@ public class UsingArray {
         {
             if(array[i] == '(')
             {
-                //myStack.push(array[i]);
                 for(int j = i+1; j < length; j++)
                 {
                     if(array[j] == ')')
@@ -44,14 +43,12 @@ public class UsingArray {
                         array[i] = 'v';
                         array[j] = 'v';
                         break;
-                        //char ch = myStack.pop();
                     }
                 }
             }
 
             else if(array[i] == '{')
             {
-                //myStack.push(array[i]);
                 for(int j = i+1; j < length; j++)
                 {
                     if(array[j] == '}')
@@ -59,14 +56,12 @@ public class UsingArray {
                         array[j] = 'v';
                         array[i] = 'v';
                         break;
-                        //char ch = myStack.pop();
                     }
                 }
             }
 
             else if(array[i] == '[')
             {
-                //myStack.push(array[i]);
                 for(int j = i+1; j < length; j++)
                 {
                     if(array[j] == ']')
@@ -74,7 +69,6 @@ public class UsingArray {
                         array[j] = 'v';
                         array[i] = 'v';
                         break;
-                        //char ch = myStack.pop();
                     }
                 }
             }
