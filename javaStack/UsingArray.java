@@ -22,7 +22,9 @@ public class UsingArray {
             {
                 System.out.println("false");
             }
-		}
+        }
+        
+        sc.close();
 		
     }
     
