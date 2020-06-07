@@ -5,7 +5,8 @@ import java.util.Stack;
 
 public class UsingStack {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner sc = new Scanner(System.in);
 		
         while (sc.hasNext())
@@ -13,25 +14,36 @@ public class UsingStack {
             String input=sc.next();
 
             Stack<Character> stacky = new Stack<>();
-            for (int i = 0; i < input.length(); i++) {
-            if (!stacky.isEmpty()) {
-                switch(input.charAt(i)) {
-                    case '}' : if (stacky.peek() == '{') {
-                        stacky.pop();
-                    } break;
-                    case ']' : if (stacky.peek() == '[') {
-                        stacky.pop();
-                    } break;
-                    case ')' : if (stacky.peek() == '(') {
-                        stacky.pop();
-                    } break;
-                    default: stacky.push(input.charAt(i));
+            for (int i = 0; i < input.length(); i++) 
+            {
+                if (!stacky.isEmpty()) 
+                {
+                    switch(input.charAt(i)) 
+                    {
+                        case '}' : if (stacky.peek() == '{') 
+                        {
+                            stacky.pop();
+                            break;
+                        } //break;
+                        case ']' : if (stacky.peek() == '[') 
+                        {
+                            stacky.pop();
+                            break;
+                        } //break;
+                        case ')' : if (stacky.peek() == '(') 
+                        {
+                            stacky.pop();
+                            break;
+                        } 
+                        default: stacky.push(input.charAt(i));
+                    }
+                }
+                else 
+                {
+                    stacky.push(input.charAt(i));
                 }
             }
-            else {
-            stacky.push(input.charAt(i));
-            }
-        }
+            
             System.out.println(stacky.isEmpty());
         } 
     }
