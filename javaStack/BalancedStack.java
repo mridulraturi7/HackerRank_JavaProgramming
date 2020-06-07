@@ -1,5 +1,7 @@
 package javaStack;
 
+import java.util.Scanner;
+
 public class BalancedStack {
 
     public static void main(String []argh)
@@ -22,6 +24,73 @@ public class BalancedStack {
             }
 		}
 		
-	}
+    }
+    
+    public static boolean check(String str)
+    {
+        int length = str.length();
+        //int mid = length/2;
+        //int push = 0, pop = 0;
+        char[] array = str.toCharArray();
+
+        //Stack<Character> myStack = new Stack<Character>();
+
+    for(int i = 0; i < length; i++)
+    {
+        if(array[i] == '(')
+        {
+            //myStack.push(array[i]);
+            for(int j = i+1; j < length; j++)
+            {
+                if(array[j] == ')')
+                {
+                    array[i] = 'v';
+                    array[j] = 'v';
+                    //char ch = myStack.pop();
+                }
+            }
+        }
+
+        else if(array[i] == '{')
+        {
+            //myStack.push(array[i]);
+            for(int j = i+1; j < length; j++)
+            {
+                if(array[j] == '}')
+                {
+                    array[j] = 'v';
+                    array[i] = 'v';
+                    //char ch = myStack.pop();
+                }
+            }
+        }
+
+        else if(array[i] == '[')
+        {
+            //myStack.push(array[i]);
+            for(int j = i+1; j < length; j++)
+            {
+                if(array[j] == ']')
+                {
+                    array[j] = 'v';
+                    array[i] = 'v';
+                    //char ch = myStack.pop();
+                }
+            }
+        }
+    }
+
+    for(int i = 0; i < length; i++)
+    {
+        System.out.println(array[i]);
+        if(array[i] != 'v')
+        {
+            return false;
+        }
+    }
+
+    return true;
+
+    }
     
 }
