@@ -89,3 +89,5 @@ The problems are listed below :
 42 : Java 1D Array (Part 2).
 
 43 : Java Stack.
+
+    43.1 : Using Array.
