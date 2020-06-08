@@ -3,6 +3,16 @@ package javaComparator;
 import java.util.Scanner;
 import java.util.Arrays;
 
+class Player{
+    String name;
+    int score;
+    
+    Player(String name, int score){
+        this.name = name;
+        this.score = score;
+    }
+}
+
 public class ComparatorExample {
 
     public static void main(String[] args) {
