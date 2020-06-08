@@ -3,6 +3,32 @@ package javaComparator;
 import java.util.Scanner;
 import java.util.Arrays;
 
+// Write your Checker class here
+class Checker implements Comparator<Player>
+{
+    public int compare(Player a, Player b)
+    {
+        int s1 = a.score;
+        int s2 = b.score;
+
+        String str1 = a.name;
+        String str2 = b.name;
+
+        int sCompare = Integer.compare(s2,s1);
+
+        if(sCompare == 0)
+        {
+            return str1.compareTo(str2);
+        }
+
+        else 
+        {
+            return sCompare;
+        }
+
+    }
+}
+
 class Player{
     String name;
     int score;
