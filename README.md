@@ -93,3 +93,5 @@ The problems are listed below :
     43.1 : Using Array.
 
     43.2 : Using Stack.
+
+44 : Java HashSet.
