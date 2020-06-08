@@ -2,6 +2,8 @@ package javaComparator;
 
 import java.util.Scanner;
 import java.util.Arrays;
+import java.util.Comparator;
+import java.lang.Integer;
 
 // Write your Checker class here
 class Checker implements Comparator<Player>
