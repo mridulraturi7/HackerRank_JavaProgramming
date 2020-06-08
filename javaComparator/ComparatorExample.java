@@ -1,5 +1,8 @@
 package javaComparator;
 
+import java.util.Scanner;
+import java.util.Arrays;
+
 public class ComparatorExample {
 
     public static void main(String[] args) {
