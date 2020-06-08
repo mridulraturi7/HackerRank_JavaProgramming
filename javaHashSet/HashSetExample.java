@@ -1,7 +1,6 @@
 package javaHashSet;
 
-import java.util.Scanner;
-import java.util.HashSet;
+import java.util.*;
 
 public class HashSetExample {
 
@@ -11,7 +10,8 @@ public class HashSetExample {
         String [] pair_left = new String[t];
         String [] pair_right = new String[t];
         
-        for (int i = 0; i < t; i++) {
+        for (int i = 0; i < t; i++) 
+        {
             pair_left[i] = s.next();
             pair_right[i] = s.next();
         }
