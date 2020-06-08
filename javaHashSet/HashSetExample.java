@@ -16,6 +16,8 @@ public class HashSetExample {
             pair_right[i] = s.next();
         }
 
+        s.close();
+
         HashSet<String> myHash = new HashSet<>();
 
         for(int i = 0; i < t; i++)
