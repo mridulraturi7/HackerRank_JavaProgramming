@@ -3,7 +3,6 @@ package javaComparator;
 import java.util.*;
 import java.lang.Integer;
 
-// Write your Checker class here
 class Checker implements Comparator<Player>
 {
     public int compare(Player a, Player b)
@@ -57,6 +56,5 @@ public class ComparatorExample {
         for(int i = 0; i < player.length; i++){
             System.out.printf("%s %s\n", player[i].name, player[i].score);
         }
-    }
-    
+    }  
 }
