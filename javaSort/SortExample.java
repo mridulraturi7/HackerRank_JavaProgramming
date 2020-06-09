@@ -4,23 +4,31 @@ import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
 
-class Student{
+class Student
+{
 	private int id;
 	private String fname;
 	private double cgpa;
-	public Student(int id, String fname, double cgpa) {
+    public Student(int id, String fname, double cgpa) 
+    {
 		super();
 		this.id = id;
 		this.fname = fname;
 		this.cgpa = cgpa;
-	}
-	public int getId() {
+    }
+    
+    public int getId() 
+    {
 		return id;
-	}
-	public String getFname() {
+    }
+    
+    public String getFname() 
+    {
 		return fname;
-	}
-	public double getCgpa() {
+    }
+    
+    public double getCgpa() 
+    {
 		return cgpa;
 	}
 }
@@ -29,12 +37,14 @@ class Student{
 
 public class SortExample {
 
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
 		Scanner in = new Scanner(System.in);
 		int testCases = Integer.parseInt(in.nextLine());
 		
 		List<Student> studentList = new ArrayList<Student>();
-		while(testCases>0){
+        while(testCases>0)
+        {
 			int id = in.nextInt();
 			String fname = in.next();
 			double cgpa = in.nextDouble();
@@ -47,7 +57,8 @@ public class SortExample {
         
         in.close();
       
-      	for(Student st: studentList){
+        for(Student st: studentList)
+        {
 			System.out.println(st.getFname());
 		}
 	}
