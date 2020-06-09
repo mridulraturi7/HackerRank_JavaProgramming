@@ -56,6 +56,40 @@ public class SortExample {
         }
         
         in.close();
+
+        Comparator<Student> myComparator = new Comparator<Student>()
+        {
+            public int compare(Student a, Student b)
+            {
+                double g1 = a.getCgpa();
+                double g2 = b.getCgpa();
+
+                int gCompare = Double.compare(g2, g1);
+
+                if(gCompare == 0)
+                {
+                    int nCompare = a.getFname().compareTo(b.getFname());
+                    
+                    if(nCompare == 0)
+                    {
+                        return Integer.compare(a.getId(), b.getId());
+                    }
+
+                    else
+                    {
+                        return nCompare;
+                    }
+
+                }
+
+                else
+                {
+                    return gCompare;
+                }
+            }
+        };
+
+        Collections.sort(studentList, myComparator);
       
         for(Student st: studentList)
         {
