@@ -3,6 +3,8 @@ package javaSort;
 import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.Collections;
 
 class Student
 {
@@ -32,8 +34,6 @@ class Student
 		return cgpa;
 	}
 }
-
-//Complete the code
 
 public class SortExample {
 
