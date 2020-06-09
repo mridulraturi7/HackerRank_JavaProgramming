@@ -43,7 +43,9 @@ public class SortExample {
 			studentList.add(st);
 			
 			testCases--;
-		}
+        }
+        
+        in.close();
       
       	for(Student st: studentList){
 			System.out.println(st.getFname());
