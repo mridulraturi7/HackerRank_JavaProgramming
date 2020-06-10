@@ -99,3 +99,5 @@ The problems are listed below :
 45 : Java Comparator.
 
 46 : Java Sort.
+
+47 : Java Dequeue.
