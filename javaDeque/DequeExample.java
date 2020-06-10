@@ -35,6 +35,7 @@ public class DequeExample {
                 }
             }
         }
+        in.close();
         System.out.println(unique);
     }            
     
