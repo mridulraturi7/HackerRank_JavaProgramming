@@ -102,4 +102,4 @@ The problems are listed below :
 
 47 : Java Dequeue.
 
-48 : Java Bitset.
+48 : Java BitSet.
