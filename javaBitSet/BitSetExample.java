@@ -22,69 +22,69 @@ public class BitSetExample {
             int b = scan.nextInt();
 
             if(str.equals("AND"))
-        {
-            if(a == 1)
             {
-                b1.and(b2);
+                if(a == 1)
+                {
+                    b1.and(b2);
+                }
+                else if(a == 2)
+                {
+                    b2.and(b1);
+                }
             }
-            else if(a == 2)
-            {
-                b2.and(b1);
-            }
-        }
 
-        else if(str.equals("OR"))
-        {
-            if(a == 1)
+            else if(str.equals("OR"))
             {
-                b1.or(b2);
+                if(a == 1)
+                {
+                    b1.or(b2);
+                }
+                else if(a == 2)
+                {
+                    b2.or(b1);
+                }
             }
-            else if(a == 2)
-            {
-                b2.or(b1);
-            }
-        }
 
-        else if(str.equals("XOR"))
-        {
-            if(a == 1)
+            else if(str.equals("XOR"))
             {
-                b1.xor(b2);
+                if(a == 1)
+                {
+                    b1.xor(b2);
+                }
+                else if(a == 2)
+                {
+                    b2.xor(b1);
+                }
             }
-            else if(a == 2)
-            {
-                b2.xor(b1);
-            }
-        }
 
-        else if(str.equals("FLIP"))
-        {
-            if(a == 1)
+            else if(str.equals("FLIP"))
             {
-                b1.flip(b);
+                if(a == 1)
+                {
+                    b1.flip(b);
+                }
+                else if(a == 2)
+                {
+                    b2.flip(b);
+                }
             }
-            else if(a == 2)
-            {
-                b2.flip(b);
-            }
-        }
 
-        else if(str.equals("SET"))
-        {
-            if(a == 1)
+            else if(str.equals("SET"))
             {
-                b1.set(b);
+                if(a == 1)
+                {
+                    b1.set(b);
+                }
+                else if(a == 2)
+                {
+                    b2.set(b);
+                }
             }
-            else if(a == 2)
-            {
-                b2.set(b);
-            }
-        }
 
         
-        System.out.println(b1.cardinality() + " " + b2.cardinality());
+            System.out.println(b1.cardinality() + " " + b2.cardinality());
 
-        m--;
+            m--;
         }
     }
 }
