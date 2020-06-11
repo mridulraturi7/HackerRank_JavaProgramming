@@ -101,3 +101,5 @@ The problems are listed below :
 46 : Java Sort.
 
 47 : Java Dequeue.
+
+48 : Java Bitset.
