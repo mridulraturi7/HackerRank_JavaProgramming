@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class BitSetExample {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-
+        
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
         int m = scan.nextInt();
@@ -81,24 +80,9 @@ public class BitSetExample {
             }
         }
 
-        //int count1 = 0, count2 = 0;
-
-        /*for(int i = 0; i < b1.length(); i++)
-        {
-            if(b1.get(i))
-            {
-                count1++;
-            }
-
-            if(b2.get(i))
-            {
-                count2++;
-            }
-        }
-*/
+        
         System.out.println(b1.cardinality() + " " + b2.cardinality());
 
-            //performOperation(str, a, b, b1, b2);
         m--;
         }
     }
