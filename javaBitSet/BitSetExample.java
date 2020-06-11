@@ -5,6 +5,7 @@ import java.util.BitSet;
 
 public class BitSetExample {
 
+    private static BitSet b1, b2;
     public static void main(String[] args) {
         
         Scanner scan = new Scanner(System.in);
@@ -12,8 +13,8 @@ public class BitSetExample {
         int m = scan.nextInt();
 
         
-        BitSet b1 = new BitSet(n);
-        BitSet b2 = new BitSet(n);
+        b1 = new BitSet(n);
+        b2 = new BitSet(n);
 
         while(m>0)
         {
@@ -21,7 +22,18 @@ public class BitSetExample {
             int a = scan.nextInt();
             int b = scan.nextInt();
 
-            if(str.equals("AND"))
+            performOperation(str, a, b);
+
+            m--;
+        }
+
+        scan.close();
+
+    }
+
+    public static void performOperation(String str, int a, int b)
+    {
+        if(str.equals("AND"))
             {
                 if(a == 1)
                 {
@@ -81,13 +93,6 @@ public class BitSetExample {
                 }
             }
 
-        
             System.out.println(b1.cardinality() + " " + b2.cardinality());
-
-            m--;
-        }
-
-        scan.close();
-        
     }
 }
