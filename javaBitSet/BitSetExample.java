@@ -1,6 +1,7 @@
 package javaBitSet;
 
 import java.util.Scanner;
+import java.util.BitSet;
 
 public class BitSetExample {
 
