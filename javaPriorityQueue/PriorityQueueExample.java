@@ -72,6 +72,32 @@ class Priorities
         }
     };
 
+    public List<Student> getStudents(List<String> events)
+    {
+        for(String str : events)
+        {
+            String[] array = str.split(" ");
+            if(array[0].equals("ENTER"))
+            {
+                Student std = new Student(Integer.parseInt(array[3]), array[1], Double.parseDouble(array[2]));
+                students.add(std);
+            }
+
+            else if(array[0].equals("SERVED"))
+            {
+                if(!students.isEmpty())
+                {
+                    Collections.sort(students, myComparator);
+                    students.remove(students.size()-1);
+                }
+                //students.trimToSize();
+            }
+        }
+
+        Collections.reverse(students);
+        return students;
+    }
+    
 }
 
 public class PriorityQueueExample {
