@@ -36,6 +36,44 @@ class Student
     }
 }
 
+class Priorities
+{
+    List<Student> students = new ArrayList<>();
+
+    Comparator<Student> myComparator = new Comparator<Student>(){
+        public int compare(Student a, Student b)
+        {
+            double cg1 = a.getCGPA();
+            int i1 = a.getId();
+            String nam1 = a.getName();
+            double cg2 = b.getCGPA();
+            int i2 = b.getId();
+            String nam2 = b.getName();
+            
+            int cgCompare = Double.compare(cg1,cg2);
+
+            if(cgCompare == 0)
+            {
+                if(nam2.compareTo(nam1) == 0)
+                {
+                    return Integer.compare(i2,i1);
+                }
+
+                else
+                {
+                    return nam2.compareTo(nam1);
+                }
+            }
+
+            else
+            {
+                return cgCompare;
+            }
+        }
+    };
+
+}
+
 public class PriorityQueueExample {
     private final static Scanner scan = new Scanner(System.in);
     private final static Priorities priorities = new Priorities();
