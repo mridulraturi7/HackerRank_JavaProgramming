@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
+import java.util.Collections;
 /*
  * Create the Student and Priorities classes here.
  */
@@ -97,7 +98,7 @@ class Priorities
         Collections.reverse(students);
         return students;
     }
-    
+
 }
 
 public class PriorityQueueExample {
