@@ -3,6 +3,7 @@ package javaPriorityQueue;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Scanner;
 /*
  * Create the Student and Priorities classes here.
  */
