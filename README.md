@@ -103,3 +103,5 @@ The problems are listed below :
 47 : Java Dequeue.
 
 48 : Java BitSet.
+
+49 : Java Priority Queue.
