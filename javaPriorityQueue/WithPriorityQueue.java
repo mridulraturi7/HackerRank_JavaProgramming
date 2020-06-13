@@ -4,13 +4,13 @@ import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
 
-class Student
+class StudentModel
 {
     private int id;
     private String name;
     private double cgpa;
 
-    public Student(int id, String name, double cgpa)
+    public StudentModel(int id, String name, double cgpa)
     {
         this.id = id;
         this.name = name;
