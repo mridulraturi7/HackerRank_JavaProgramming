@@ -105,3 +105,5 @@ The problems are listed below :
 48 : Java BitSet.
 
 49 : Java Priority Queue.
+
+    49.1 : Without using Priority Queue.
