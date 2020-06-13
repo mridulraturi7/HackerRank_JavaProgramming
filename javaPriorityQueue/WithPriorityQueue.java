@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
+//This solution is implemented using Priority Queue with a Comparator.
+
 class StudentModel
 {
     private int id;
