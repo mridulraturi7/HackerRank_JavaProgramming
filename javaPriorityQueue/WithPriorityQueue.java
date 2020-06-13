@@ -33,6 +33,41 @@ class StudentModel
     }
 }
 
+class StudentComparator implements Comparator<StudentModel>
+{
+    @Override
+    public int compare(StudentModel a, StudentModel b)
+    {
+        double cg1 = a.getCGPA();
+        int i1 = a.getId();
+        String nam1 = a.getName();
+        double cg2 = b.getCGPA();
+        int i2 = b.getId();
+        String nam2 = b.getName();
+            
+        int cgCompare = Double.compare(cg2,cg1);
+
+        if(cgCompare == 0)
+        {
+            if(nam1.compareTo(nam2) == 0)
+            {
+                return Integer.compare(i1,i2);
+            }
+
+            else
+            {
+                return nam1.compareTo(nam2);
+            }
+        }
+
+        else
+        {
+            return cgCompare;
+        }
+    }
+}
+
+
 public class WithPriorityQueue {
 
     private final static Scanner scan = new Scanner(System.in);
