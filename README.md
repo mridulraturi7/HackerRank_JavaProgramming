@@ -107,3 +107,5 @@ The problems are listed below :
 49 : Java Priority Queue.
 
     49.1 : Without using Priority Queue.
+
+    49.2 : Using Priority Queue.
