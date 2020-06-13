@@ -69,12 +69,12 @@ class StudentComparator implements Comparator<StudentModel>
     }
 }
 
-class Priorities 
+class PrioritiesClass
 {
     List<Student> students = new ArrayList<Student>();
     public List<Student> getStudents(List<String> events)
     {
-        PriorityQueue<Student> pQ = new PriorityQueue<Student>(new StudentComparator());
+        PriorityQueue<StudentModel> pQ = new PriorityQueue<StudentModel>(new StudentComparator());
         for(String str : events)
         {
             String[] array = str.split(" ");
