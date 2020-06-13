@@ -71,8 +71,8 @@ class StudentComparator implements Comparator<StudentModel>
 
 class PrioritiesClass
 {
-    List<Student> students = new ArrayList<Student>();
-    public List<Student> getStudents(List<String> events)
+    List<StudentModel> students = new ArrayList<StudentModel>();
+    public List<StudentModel> getStudents(List<String> events)
     {
         PriorityQueue<StudentModel> pQ = new PriorityQueue<StudentModel>(new StudentComparator());
         for(String str : events)
@@ -80,7 +80,7 @@ class PrioritiesClass
             String[] array = str.split(" ");
             if(array[0].equals("ENTER"))
             {
-                Student std = new Student(Integer.parseInt(array[3]), array[1], Double.parseDouble(array[2]));
+                StudentModel std = new StudentModel(Integer.parseInt(array[3]), array[1], Double.parseDouble(array[2]));
                 pQ.add(std);
             }
 
@@ -106,7 +106,7 @@ class PrioritiesClass
 public class WithPriorityQueue {
 
     private final static Scanner scan = new Scanner(System.in);
-    private final static Priorities priorities = new Priorities();
+    private final static PrioritiesClass priorities = new PrioritiesClass();
     
     public static void main(String[] args) {
         int totalEvents = Integer.parseInt(scan.nextLine());    
@@ -117,12 +117,12 @@ public class WithPriorityQueue {
             events.add(event);
         }
         
-        List<Student> students = priorities.getStudents(events);
+        List<StudentModel> students = priorities.getStudents(events);
         
         if (students.isEmpty()) {
             System.out.println("EMPTY");
         } else {
-            for (Student st: students) {
+            for (StudentModel st: students) {
                 System.out.println(st.getName());
             }
         }
