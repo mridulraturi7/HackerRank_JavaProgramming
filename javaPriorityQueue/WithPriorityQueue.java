@@ -1,5 +1,9 @@
 package javaPriorityQueue;
 
+import java.util.Scanner;
+import java.util.List;
+import java.util.ArrayList;
+
 public class WithPriorityQueue {
 
     private final static Scanner scan = new Scanner(System.in);
