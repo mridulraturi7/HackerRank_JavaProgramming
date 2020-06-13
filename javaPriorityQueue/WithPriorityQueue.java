@@ -68,6 +68,39 @@ class StudentComparator implements Comparator<StudentModel>
     }
 }
 
+class Priorities 
+{
+    List<Student> students = new ArrayList<Student>();
+    public List<Student> getStudents(List<String> events)
+    {
+        PriorityQueue<Student> pQ = new PriorityQueue<Student>(new StudentComparator());
+        for(String str : events)
+        {
+            String[] array = str.split(" ");
+            if(array[0].equals("ENTER"))
+            {
+                Student std = new Student(Integer.parseInt(array[3]), array[1], Double.parseDouble(array[2]));
+                pQ.add(std);
+            }
+
+            else if(array[0].equals("SERVED"))
+            {
+                //if(!pQ.isEmpty())
+                //{
+                    pQ.poll();
+                //}
+            }
+        }
+
+        while(!pQ.isEmpty())
+        {
+            students.add(pQ.poll());
+        }
+        return students;
+    }
+
+} 
+
 
 public class WithPriorityQueue {
 
