@@ -86,10 +86,7 @@ class PrioritiesClass
 
             else if(array[0].equals("SERVED"))
             {
-                //if(!pQ.isEmpty())
-                //{
                     pQ.poll();
-                //}
             }
         }
 
