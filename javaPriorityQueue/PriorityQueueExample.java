@@ -6,6 +6,11 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.Collections;
 
+/*
+This solution is implemented using only ArrayList and comparator. Priority Queue is not used here.
+Check the next solution for Priority Queue.
+*/
+
 class Student
 {
     private int id;
