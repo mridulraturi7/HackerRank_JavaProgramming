@@ -1,5 +1,13 @@
 package javaAbstractClass;
 
+abstract class Book{
+	String title;
+	abstract void setTitle(String s);
+	String getTitle(){
+		return title;
+	}
+}
+
 public class AbstractClass {
 
     public static void main(String []args){
