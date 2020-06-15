@@ -2,10 +2,12 @@ package javaAbstractClass;
 
 import java.util.Scanner;
 
-abstract class Book{
+abstract class Book
+{
 	String title;
 	abstract void setTitle(String s);
-	String getTitle(){
+    String getTitle()
+    {
 		return title;
 	}
 }
@@ -19,8 +21,8 @@ class MyBook extends Book
     }
 }
 
-public class AbstractClass {
-
+public class AbstractClass 
+{
     public static void main(String []args){
 		//Book new_novel=new Book(); This line prHMain.java:25: error: Book is abstract; cannot be instantiated
 		Scanner sc=new Scanner(System.in);
@@ -30,6 +32,5 @@ public class AbstractClass {
 		System.out.println("The title is: "+new_novel.getTitle());
       	sc.close();
 		
-	}
-    
+	}   
 }
