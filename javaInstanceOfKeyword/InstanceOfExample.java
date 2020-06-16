@@ -2,6 +2,11 @@ package javaInstanceOfKeyword;
 
 import java.util.Scanner;
 
+class Student
+{
+    
+}
+
 public class InstanceOfExample
 {
     public static void main(String []args){
