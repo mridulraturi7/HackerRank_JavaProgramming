@@ -9,7 +9,12 @@ class Student
 
 class Rockstar
 {
-    
+
+}
+
+class Hacker
+{
+
 }
 
 public class InstanceOfExample
