@@ -21,10 +21,11 @@ class Hacker
 
 public class InstanceOfExample
 {
-
-    static String count(ArrayList<Object> mylist){
+    static String count(ArrayList<Object> mylist)
+    {
         int a = 0,b = 0,c = 0;
-        for(int i = 0; i < mylist.size(); i++){
+        for(int i = 0; i < mylist.size(); i++)
+        {
            Object element=mylist.get(i);
            if(element instanceof Student)
               a++;
@@ -35,12 +36,15 @@ public class InstanceOfExample
         }
         String ret = Integer.toString(a)+" "+ Integer.toString(b)+" "+ Integer.toString(c);
         return ret;
-     }
-    public static void main(String []args){
+    }
+
+    public static void main(String []args)
+    {
         ArrayList<Object> mylist = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
-        for(int i=0; i<t; i++){
+        for(int i=0; i<t; i++)
+        {
            String s=sc.next();
            if(s.equals("Student"))mylist.add(new Student());
            if(s.equals("Rockstar"))mylist.add(new Rockstar());
@@ -48,5 +52,5 @@ public class InstanceOfExample
         }
         sc.close();
         System.out.println(count(mylist));
-     }
+    }
 }
