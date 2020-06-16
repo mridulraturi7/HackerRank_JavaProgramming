@@ -45,6 +45,7 @@ public class InstanceOfExample
            if(s.equals("Rockstar"))mylist.add(new Rockstar());
            if(s.equals("Hacker"))mylist.add(new Hacker());
         }
+        sc.close();
         System.out.println(count(mylist));
      }
 }
