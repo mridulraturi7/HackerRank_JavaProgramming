@@ -1,5 +1,7 @@
 package javaInstanceOfKeyword;
 
+import java.util.Scanner;
+
 public class InstanceOfExample
 {
     public static void main(String []args){
