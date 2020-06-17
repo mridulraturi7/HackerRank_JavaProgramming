@@ -30,8 +30,10 @@ public class IteratorExample {
        
        mylist.add("###");
        for(int i=0;i<m;i++){
-          mylist.add(sc.next());
-       }
+            mylist.add(sc.next());
+        }
+
+        sc.close();
        
        Iterator it=func(mylist);
        while(it.hasNext()){
