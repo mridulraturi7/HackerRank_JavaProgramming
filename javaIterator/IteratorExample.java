@@ -9,8 +9,8 @@ public class IteratorExample {
     static Iterator func(ArrayList<Object> mylist){
         Iterator it=mylist.iterator();
         while(it.hasNext()){
-           Object element = it.next();//~~~Complete this line~~~
-           if(element instanceof String)//Hints: use instanceof operator
+           Object element = it.next();
+           if(element instanceof String)
   
               break;
           }
