@@ -113,3 +113,5 @@ The problems are listed below :
 50 : Java Abstract Class.
 
 51 : Java Instanceof Keyword.
+
+52 : Java Iterator.
