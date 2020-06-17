@@ -1,6 +1,8 @@
 package javaIterator;
 
 import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Iterator;
 
 public class IteratorExample {
 
