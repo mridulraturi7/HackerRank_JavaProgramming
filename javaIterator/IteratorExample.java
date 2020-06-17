@@ -6,8 +6,8 @@ import java.util.Iterator;
 
 public class IteratorExample {
 
-    static Iterator func(ArrayList mylist){
-        Iterator it=mylist.iterator();
+    static Iterator<Object> func(ArrayList<Object> mylist){
+        Iterator<Object> it=mylist.iterator();
         while(it.hasNext()){
            Object element = it.next();//~~~Complete this line~~~
            if(element instanceof String)//Hints: use instanceof operator
@@ -18,9 +18,9 @@ public class IteratorExample {
         
     }
 
-    @SuppressWarnings({ "unchecked" })
+    //@SuppressWarnings({ "unchecked" })
     public static void main(String []args){
-       ArrayList mylist = new ArrayList();
+       ArrayList<Object> mylist = new ArrayList<>();
        Scanner sc = new Scanner(System.in);
        int n = sc.nextInt();
        int m = sc.nextInt();
@@ -33,7 +33,7 @@ public class IteratorExample {
           mylist.add(sc.next());
        }
        
-       Iterator it=func(mylist);
+       Iterator<Object> it=func(mylist);
        while(it.hasNext()){
           Object element = it.next();
           System.out.println((String)element);
