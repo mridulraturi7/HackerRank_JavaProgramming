@@ -1,7 +1,9 @@
 package javaIterator;
 
+import java.util.Scanner;
+
 public class IteratorExample {
-    
+
     @SuppressWarnings({ "unchecked" })
     public static void main(String []args){
        ArrayList mylist = new ArrayList();
