@@ -4,6 +4,18 @@ import java.util.Scanner;
 
 public class IteratorExample {
 
+    static Iterator func(ArrayList mylist){
+        Iterator it=mylist.iterator();
+        while(it.hasNext()){
+           Object element = it.next();//~~~Complete this line~~~
+           if(element instanceof String)//Hints: use instanceof operator
+  
+              break;
+          }
+        return it;
+        
+    }
+
     @SuppressWarnings({ "unchecked" })
     public static void main(String []args){
        ArrayList mylist = new ArrayList();
