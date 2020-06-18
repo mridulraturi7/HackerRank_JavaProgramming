@@ -5,6 +5,28 @@ import java.lang.reflect.*;
 import java.util.ArrayList;
 import java.util.Collections;
 
+class Student{
+    private String name;
+    private String id;
+    private String email;
+
+    public String getName() {
+        return name;
+    }
+    public void setId(String id) {
+        this.id = id;
+    }
+    public void setEmail(String email) {
+        this.email = email;
+    }
+    public void anothermethod(){  }
+    
+    /*......
+    ......
+    some more methods
+    ......*/
+}
+
 public class ReflectionAttributes {
 
     public static void main(String[] args){
