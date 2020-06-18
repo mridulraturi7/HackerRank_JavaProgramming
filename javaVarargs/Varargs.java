@@ -3,6 +3,24 @@ package javaVarargs;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+class Add
+{
+    public void add(int ...a)
+    {
+        int sum = 0;
+
+        String symbol = "";
+        for(int i : a)
+        {
+            sum = sum + i;
+            System.out.print(symbol + i);
+            symbol = "+";
+        }
+
+        System.out.println("=" + sum);
+    }
+}
+
 public class Varargs {
 
     public static void main(String[] args) {
