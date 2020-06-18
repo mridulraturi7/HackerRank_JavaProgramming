@@ -115,3 +115,5 @@ The problems are listed below :
 51 : Java Instanceof Keyword.
 
 52 : Java Iterator.
+
+52 : Java Varargs.
