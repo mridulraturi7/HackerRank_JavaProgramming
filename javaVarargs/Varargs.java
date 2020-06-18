@@ -25,7 +25,6 @@ class Add
 }
 
 public class Varargs {
-
     public static void main(String[] args) {
         try{
             BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
@@ -56,11 +55,10 @@ public class Varargs {
             {
                 throw new Exception("Overloading not allowed");
             }
-            }
-            catch(Exception e)
-            {
-                e.printStackTrace();
-            }
         }
-    
+        catch(Exception e)
+        {
+            e.printStackTrace();
+        }
+    }  
 }
