@@ -1,5 +1,8 @@
 package javaVarargs;
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
 public class Varargs {
 
     public static void main(String[] args) {
