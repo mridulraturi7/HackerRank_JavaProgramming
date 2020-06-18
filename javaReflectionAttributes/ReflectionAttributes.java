@@ -25,7 +25,7 @@ class Student       //This class is created only for checking the correctness of
     }
     public void anothermethod()
     {  
-        
+
     }
     
     /*......
@@ -38,7 +38,7 @@ public class ReflectionAttributes
 {
     public static void main(String[] args)
     {
-        Class student = Student.class;
+        Class<?> student = Student.class;
         Method[] methods = student.getDeclaredMethods();
 
         ArrayList<String> methodList = new ArrayList<>();
