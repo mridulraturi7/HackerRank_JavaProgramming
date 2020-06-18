@@ -1,5 +1,8 @@
 package javaReflectionAttributes;
 
+import java.lang.Class;
+import java.lang.reflect.*;
+
 public class ReflectionAttributes {
 
     public static void main(String[] args){
