@@ -2,6 +2,8 @@ package javaReflectionAttributes;
 
 import java.lang.Class;
 import java.lang.reflect.*;
+import java.util.ArrayList;
+import java.util.Collections;
 
 public class ReflectionAttributes {
 
