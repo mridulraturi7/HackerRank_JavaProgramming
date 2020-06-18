@@ -31,14 +31,11 @@ class Student       //This class is created only for checking the correctness of
 public class ReflectionAttributes {
 
     public static void main(String[] args){
-        //Student std = new Student();
-        Class student = Student.class; //~~~Complete this line~~~;
-        Method[] methods = student.getDeclaredMethods();//~~~Complete this line~~~;
+        Class student = Student.class;
+        Method[] methods = student.getDeclaredMethods();
 
         ArrayList<String> methodList = new ArrayList<>();
-        //for(~~~Complete this line~~~){
         for(Method method : methods){
-            //methodList.add(~~~Complete this line~~~);
             methodList.add(method.getName());
         }
         Collections.sort(methodList);
