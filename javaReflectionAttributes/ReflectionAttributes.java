@@ -30,8 +30,8 @@ class Student{
 public class ReflectionAttributes {
 
     public static void main(String[] args){
-        Student std = new Student();
-        Class student = std.getClass(); //~~~Complete this line~~~;
+        //Student std = new Student();
+        Class student = Student.class; //~~~Complete this line~~~;
         Method[] methods = student.getDeclaredMethods();//~~~Complete this line~~~;
 
         ArrayList<String> methodList = new ArrayList<>();
