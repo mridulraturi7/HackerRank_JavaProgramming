@@ -6,8 +6,8 @@ import java.security.Permission;
 
 public class Access
 {
-
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception 
+    {
 		DoNotTerminate.forbidExit();	
 
 		try{
@@ -31,13 +31,19 @@ public class Access
 		
 		}//end of try
 		
-		catch (DoNotTerminate.ExitTrappedException e) {
+        catch (DoNotTerminate.ExitTrappedException e) 
+        {
 			System.out.println("Unsuccessful Termination!!");
 		}
-	}//end of main
-	static class Inner{
-		private class Private{
-			private String powerof2(int num){
+    }//end of main
+    
+
+    static class Inner
+    {
+        private class Private
+        {
+            private String powerof2(int num)
+            {
 				return ((num&num-1)==0)?"power of 2":"not a power of 2";
 			}
 		}
@@ -47,16 +53,20 @@ public class Access
 
 class DoNotTerminate { //This class prevents exit(0)
 	 
-    public static class ExitTrappedException extends SecurityException {
+    public static class ExitTrappedException extends SecurityException 
+    {
 
 		private static final long serialVersionUID = 1L;
     }
  
     public static void forbidExit() {
-        final SecurityManager securityManager = new SecurityManager() {
+        final SecurityManager securityManager = new SecurityManager() 
+        {
             @Override
-            public void checkPermission(Permission permission) {
-                if (permission.getName().contains("exitVM")) {
+            public void checkPermission(Permission permission) 
+            {
+                if (permission.getName().contains("exitVM")) 
+                {
                     throw new ExitTrappedException();
                 }
             }
