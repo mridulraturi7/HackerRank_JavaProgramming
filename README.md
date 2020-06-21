@@ -121,3 +121,5 @@ The problems are listed below :
 54 : Java Reflection - Attributes.
 
 55 : Can You Access?
+
+56 : Java Prime Checker.
