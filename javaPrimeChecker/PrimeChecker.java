@@ -5,6 +5,7 @@ import java.io.InputStreamReader;
 import java.lang.reflect.Method;
 import java.util.Set;
 import java.util.HashSet;
+import static java.lang.System.in;
 
 class Prime
 {
@@ -54,7 +55,7 @@ public class PrimeChecker {
 
     public static void main(String[] args) {
 		try{
-		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+		BufferedReader br=new BufferedReader(new InputStreamReader(in));
 		int n1=Integer.parseInt(br.readLine());
 		int n2=Integer.parseInt(br.readLine());
 		int n3=Integer.parseInt(br.readLine());
