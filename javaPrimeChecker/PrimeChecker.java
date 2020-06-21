@@ -3,6 +3,21 @@ package javaPrimeChecker;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+class Prime
+{
+    public void checkPrime(int... a)
+    {
+        for(int n : a)
+        {
+            if(isPrime(n))
+            {
+                System.out.print(n + " ");
+            }
+        }
+        System.out.println();
+    }
+}
+
 public class PrimeChecker {
 
     public static void main(String[] args) {
