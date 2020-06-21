@@ -16,7 +16,7 @@ public class Access
 
             //Write your code here
 
-            Solution.Inner staticInObject = new Solution.Inner();
+            Access.Inner staticInObject = new Access.Inner();
 
             Inner.Private inObject = staticInObject.new Private();
 
