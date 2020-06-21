@@ -51,9 +51,10 @@ class Prime
     }
 }
 
-public class PrimeChecker {
-
-    public static void main(String[] args) {
+public class PrimeChecker 
+{
+    public static void main(String[] args) 
+    {
 		try{
 		BufferedReader br=new BufferedReader(new InputStreamReader(in));
 		int n1=Integer.parseInt(br.readLine());
