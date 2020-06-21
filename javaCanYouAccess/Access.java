@@ -15,11 +15,9 @@ public class Access
 			int num = Integer.parseInt(br.readLine().trim());
 			Object o;// Must be used to hold the reference of the instance of the class Solution.Inner.Private
 
-            //Write your code here
+            Access.Inner staticInObject = new Access.Inner();   //No need to create outer class object for accessing static nested class.
 
-            Access.Inner staticInObject = new Access.Inner();
-
-            Inner.Private inObject = staticInObject.new Private();
+            Inner.Private inObject = staticInObject.new Private();   //Need to create outside class object to access inner class.
 
             o = inObject;
 
