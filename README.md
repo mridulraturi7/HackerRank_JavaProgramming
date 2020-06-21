@@ -120,4 +120,4 @@ The problems are listed below :
 
 54 : Java Reflection - Attributes.
 
-55 : Java Can You Access?
+55 : Can You Access?
