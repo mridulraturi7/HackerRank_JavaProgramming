@@ -51,7 +51,7 @@ public class PrimeChecker {
 
     public static void main(String[] args) {
 		try{
-		BufferedReader br=new BufferedReader(new InputStreamReader(in));
+		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		int n1=Integer.parseInt(br.readLine());
 		int n2=Integer.parseInt(br.readLine());
 		int n3=Integer.parseInt(br.readLine());
