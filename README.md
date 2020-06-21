@@ -122,4 +122,4 @@ The problems are listed below :
 
 55 : Can You Access?
 
-56 : Java Prime Checker.
+56 : Prime Checker.
