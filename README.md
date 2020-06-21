@@ -119,3 +119,5 @@ The problems are listed below :
 53 : Java Varargs.
 
 54 : Java Reflection - Attributes.
+
+55 : Java Can You Access.
