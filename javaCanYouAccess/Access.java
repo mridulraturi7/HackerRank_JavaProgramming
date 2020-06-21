@@ -12,6 +12,16 @@ public class Access
 			Object o;// Must be used to hold the reference of the instance of the class Solution.Inner.Private
 
             //Write your code here
+
+            Solution.Inner staticInObject = new Solution.Inner();
+
+            Inner.Private inObject = staticInObject.new Private();
+
+            o = inObject;
+
+            String str = inObject.powerof2(num);
+
+            System.out.println(num + " is " + str);
             
             System.out.println("An instance of class: " + o.getClass().getCanonicalName() + " has been created");
 		
