@@ -2,6 +2,10 @@ package javaFactoryPattern;
 
 import java.util.Scanner;
 
+interface Food {
+    public String getType();
+}
+
 public class FactoryPattern {
 
     public static void main(String args[]){
