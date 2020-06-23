@@ -37,11 +37,9 @@ class FoodFactory
         {
             return new Cake();
         }
-
         return null;
-        //Write your code here
-    }//End of getFood method
-}//End of factory class
+    }
+}
 
 public class FactoryPattern 
 {
