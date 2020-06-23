@@ -1,6 +1,7 @@
 package javaFactoryPattern;
 
 import java.util.Scanner;
+import java.security.Permission;
 
 interface Food {
     public String getType();
