@@ -12,6 +12,13 @@ class Pizza implements Food {
     }
    }
 
+   class Cake implements Food {
+
+    public String getType() {
+    return "Someone ordered a Dessert!";
+    }
+   }
+
 public class FactoryPattern {
 
     public static void main(String args[]){
