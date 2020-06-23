@@ -1,5 +1,7 @@
 package javaFactoryPattern;
 
+import java.util.Scanner;
+
 public class FactoryPattern {
 
     public static void main(String args[]){
