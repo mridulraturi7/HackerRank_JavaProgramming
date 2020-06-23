@@ -123,3 +123,5 @@ The problems are listed below :
 55 : Can You Access?
 
 56 : Prime Checker.
+
+57 : Java Factory Pattern.
