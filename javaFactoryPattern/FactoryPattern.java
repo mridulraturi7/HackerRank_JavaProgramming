@@ -58,6 +58,8 @@ public class FactoryPattern {
         
         System.out.println("The factory returned "+food.getClass());
         System.out.println(food.getType());
+
+        sc.close();
     }
     catch (Do_Not_Terminate.ExitTrappedException e) {
         System.out.println("Unsuccessful Termination!!");
