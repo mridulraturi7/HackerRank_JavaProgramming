@@ -19,6 +19,27 @@ class Pizza implements Food {
     }
    }
 
+   class FoodFactory {
+    public Food getFood(String order) {
+
+        if(order.equals("pizza"))
+        {
+            return new Pizza();
+        }
+
+        if(order.equals("cake"))
+        {
+            return new Cake();
+        }
+
+        return null;
+
+//Write your code here
+
+}//End of getFood method
+
+}//End of factory class
+
 public class FactoryPattern {
 
     public static void main(String args[]){
