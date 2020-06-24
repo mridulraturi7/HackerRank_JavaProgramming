@@ -18,6 +18,9 @@ class Singleton{
         return singleObj;
     }
 
+    //The following getter and setter methods have been used just to run the code on the local machine. However,
+    //the problem does not expect us to write the following getter and setter methods.
+
     public String getStr()
     {
         return str;
