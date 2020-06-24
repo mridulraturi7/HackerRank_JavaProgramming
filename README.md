@@ -127,3 +127,5 @@ The problems are listed below :
 57 : Java Factory Pattern.
 
 58 : Java Singleton Pattern.
+
+59 : Java Visitor Pattern.
