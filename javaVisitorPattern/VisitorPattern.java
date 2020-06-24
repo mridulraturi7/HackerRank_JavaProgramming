@@ -63,6 +63,14 @@ class TreeLeaf extends Tree {
     }
 }
 
+abstract class TreeVis
+{
+    public abstract int getResult();
+    public abstract void visitNode(TreeNode node);
+    public abstract void visitLeaf(TreeLeaf leaf);
+
+}
+
 public class VisitorPattern {
 
     public static void main(String[] args) {
