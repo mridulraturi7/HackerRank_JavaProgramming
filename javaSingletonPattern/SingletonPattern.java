@@ -1,5 +1,7 @@
 package javaSingletonPattern;
 
+import java.util.Scanner;
+
 class Singleton{
     
     public String str;
