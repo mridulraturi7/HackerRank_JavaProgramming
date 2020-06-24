@@ -125,3 +125,5 @@ The problems are listed below :
 56 : Prime Checker.
 
 57 : Java Factory Pattern.
+
+58 : Java Singleton Pattern.
