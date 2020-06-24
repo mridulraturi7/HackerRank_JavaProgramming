@@ -91,23 +91,19 @@ class SumInLeavesVisitor extends TreeVis
 {
     private int result;
 
-    public int getResult() 
+    public int getResult()                      //Implement this
     {
-      	//implement this
-        return result;
+        return result;                        
     }
 
-    public void visitNode(TreeNode node) 
+    public void visitNode(TreeNode node)        //Implement this
     {
-      	//implement this
-          //doNothing
+          //doNothing                       
     }
 
-    public void visitLeaf(TreeLeaf leaf) 
+    public void visitLeaf(TreeLeaf leaf)        //Implement this
     {
-      	//implement this
-
-        result = result + leaf.getValue();
+        result = result + leaf.getValue();      
     }
 }
 
@@ -116,24 +112,21 @@ class ProductOfRedNodesVisitor extends TreeVis
     private long result = 1;
     private final int M = 1000000007;
 
-    public int getResult() 
+    public int getResult()                      //Implement this
     {
-      	//implement this
-        return (int)result;
+        return (int)result;                     
     }
 
-    public void visitNode(TreeNode node) 
+    public void visitNode(TreeNode node)        //Implement this
     {
-      	//implement this
-        if(node.getColor() == Color.RED)
+        if(node.getColor() == Color.RED)        
         {
             result = (result * node.getValue())%M;
         }
     }
 
-    public void visitLeaf(TreeLeaf leaf) 
+    public void visitLeaf(TreeLeaf leaf)           //Implement this
     {
-      	//implement this
         if(leaf.getColor() == Color.RED)
         {
             result = (result * leaf.getValue())%M;
@@ -147,25 +140,22 @@ class FancyVisitor extends TreeVis
     private int greenLeafNodes_Sum = 0;
     private int result = 0;
 
-    public int getResult() 
+    public int getResult()                          //Implement this
     {
-      	//implement this
         result = Math.abs(nonLeafNodes_EvenDepth_Sum - greenLeafNodes_Sum);
         return result;
     }
 
-    public void visitNode(TreeNode node) 
+    public void visitNode(TreeNode node)            //Implement this
     {
-    	//implement this
         if(node.getDepth()%2 == 0)
         {
             nonLeafNodes_EvenDepth_Sum += node.getValue();
         }
     }
 
-    public void visitLeaf(TreeLeaf leaf) 
+    public void visitLeaf(TreeLeaf leaf)                //Implement this
     {
-    	//implement this
         if(leaf.getColor() == Color.GREEN)
         {
             greenLeafNodes_Sum += leaf.getValue();
@@ -182,7 +172,6 @@ public class VisitorPattern
 
     public static Tree solve() 
     {
-        //read the tree from STDIN and return its root as a return value of this function
         Scanner scan = new Scanner(System.in);
 
         int nodes = scan.nextInt();
