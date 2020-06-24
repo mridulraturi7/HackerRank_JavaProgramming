@@ -215,15 +215,17 @@ public class VisitorPattern {
             v_neighbours.add(u);
         }
 
-            if(nodes == 1)
-            {
-                return new TreeLeaf(values[0], colors[0], 0);
-            }
+        scan.close();
 
-            TreeNode root = new TreeNode(values[0], colors[0], 0);
-            addChildren(root, 1);
+        if(nodes == 1)
+        {
+            return new TreeLeaf(values[0], colors[0], 0);
+        }
 
-            return root;
+        TreeNode root = new TreeNode(values[0], colors[0], 0);
+        addChildren(root, 1);
+
+        return root;
     }
 
     private static void addChildren(TreeNode parent, Integer parentNum) 
