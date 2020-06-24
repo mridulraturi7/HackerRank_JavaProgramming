@@ -2,8 +2,8 @@ package javaSingletonPattern;
 
 import java.util.Scanner;
 
-class Singleton{
-    
+class Singleton
+{    
     public String str;
     
     private static Singleton singleObj = new Singleton();
@@ -36,8 +36,8 @@ class Singleton{
 
 //The problem does not expect us to write the implementation of the class containing main(). However,
 //for running the program on the local machine it have been created.
-public class SingletonPattern {
-
+public class SingletonPattern 
+{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String str = scan.nextLine();
@@ -49,6 +49,5 @@ public class SingletonPattern {
         s_Object.setStr(str);
 
         System.out.println("Hello I am " + s_Object.getClass() + ". " + "Let me say " + s_Object.getStr() + " to you.");
-    }
-    
+    }  
 }
