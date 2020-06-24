@@ -33,6 +33,9 @@ class Singleton{
 
 }
 
+
+//The problem does not expect us to write the implementation of the class containing main(). However,
+//for running the program on the local machine it have been created.
 public class SingletonPattern {
 
     public static void main(String[] args) {
