@@ -16,6 +16,11 @@ class Singleton{
         return singleObj;
     }
 
+    public void setStr(String str)
+    {
+        this.str = str;
+    }
+
 }
 
 public class SingletonPattern {
