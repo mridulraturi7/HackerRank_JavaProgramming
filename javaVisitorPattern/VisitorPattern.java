@@ -71,6 +71,27 @@ abstract class TreeVis
 
 }
 
+class SumInLeavesVisitor extends TreeVis {
+
+    private int result;
+
+    public int getResult() {
+      	//implement this
+        return result;
+    }
+
+    public void visitNode(TreeNode node) {
+      	//implement this
+          //doNothing
+    }
+
+    public void visitLeaf(TreeLeaf leaf) {
+      	//implement this
+
+        result = result + leaf.getValue();
+    }
+}
+
 public class VisitorPattern {
 
     public static void main(String[] args) {
