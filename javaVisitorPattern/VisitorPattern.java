@@ -1,5 +1,8 @@
 package javaVisitorPattern;
 
+import java.util.Scanner;
+import java.util.ArrayList;
+
 enum Color {
     RED, GREEN
 }
