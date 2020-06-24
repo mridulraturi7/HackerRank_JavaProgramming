@@ -1,5 +1,9 @@
 package javaVisitorPattern;
 
+enum Color {
+    RED, GREEN
+}
+
 public class VisitorPattern {
 
     public static void main(String[] args) {
