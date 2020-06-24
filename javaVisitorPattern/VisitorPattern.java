@@ -119,6 +119,35 @@ class ProductOfRedNodesVisitor extends TreeVis {
     }
 }
 
+class FancyVisitor extends TreeVis {
+
+    private int nonLeafNodes_EvenDepth_Sum = 0;
+    private int greenLeafNodes_Sum = 0;
+    private int result = 0;
+
+    public int getResult() {
+      	//implement this
+        result = Math.abs(nonLeafNodes_EvenDepth_Sum - greenLeafNodes_Sum);
+        return result;
+    }
+
+    public void visitNode(TreeNode node) {
+    	//implement this
+        if(node.getDepth()%2 == 0)
+        {
+            nonLeafNodes_EvenDepth_Sum += node.getValue();
+        }
+    }
+
+    public void visitLeaf(TreeLeaf leaf) {
+    	//implement this
+        if(leaf.getColor() == Color.GREEN)
+        {
+            greenLeafNodes_Sum += leaf.getValue();
+        }
+    }
+}
+
 public class VisitorPattern {
 
     public static void main(String[] args) {
