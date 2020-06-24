@@ -34,11 +34,13 @@ public class SingletonPattern {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        String str = scan.next();
+        String str = scan.nextLine();
 
         Singleton s_Object = Singleton.getSingleInstance();
 
         s_Object.setStr(str);
+
+        System.out.println("Hello I am " + s_Object.getClass() + ". " + "Let me say " + s_Object.getStr() + " to you.");
     }
     
 }
