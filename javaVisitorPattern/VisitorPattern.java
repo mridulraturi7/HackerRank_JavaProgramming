@@ -150,6 +150,11 @@ class FancyVisitor extends TreeVis {
 
 public class VisitorPattern {
 
+    private static int values[];
+    private static Color colors[];
+
+    private static HashMap<Integer, HashSet<Integer>> myHash;
+
     public static void main(String[] args) {
         Tree root = solve();
       SumInLeavesVisitor vis1 = new SumInLeavesVisitor();
