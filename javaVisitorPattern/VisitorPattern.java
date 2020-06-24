@@ -155,6 +155,72 @@ public class VisitorPattern {
 
     private static HashMap<Integer, HashSet<Integer>> myHash;
 
+    public static Tree solve() {
+        //read the tree from STDIN and return its root as a return value of this function
+        Scanner scan = new Scanner(System.in);
+
+        int nodes = scan.nextInt();
+        values = new int[nodes];
+        colors = new Color[nodes];
+
+        myHash = new HashMap<>(nodes);
+
+        for(int i = 0; i < nodes; i++)
+        {
+            values[i] = scan.nextInt();
+        }
+
+        for(int i = 0; i < nodes; i++)
+        {
+            int color = scan.nextInt();
+            if(color == 0)
+            {
+                colors[i] = Color.RED;
+            }
+
+            else if(color == 1)
+            {
+                colors[i] = Color.GREEN;
+            }
+        }
+
+        for(int i = 0; i < nodes - 1; i++)
+        {
+            int u = scan.nextInt();
+            int v = scan.nextInt();
+
+            HashSet<Integer> u_neighbours = myHash.get(u);
+
+            if(u_neighbours == null)
+            {
+                u_neighbours = new HashSet<>();
+                myHash.put(u, u_neighbours);
+            }
+
+            u_neighbours.add(v);
+
+            HashSet<Integer> v_neighbours = myHash.get(v);
+
+            if(v_neighbours == null)
+            {
+                v_neighbours = new HashSet<>();
+                myHash.put(v, v_neighbours);
+            }
+
+            v_neighbours.add(u);
+        }
+
+            if(nodes == 1)
+            {
+                return new TreeLeaf(values[0], colors[0], 0);
+            }
+
+            TreeNode root = new TreeNode(values[0], colors[0], 0);
+            addChildren(root, 1);
+
+            return root;
+    }
+
     public static void main(String[] args) {
         Tree root = solve();
       SumInLeavesVisitor vis1 = new SumInLeavesVisitor();
