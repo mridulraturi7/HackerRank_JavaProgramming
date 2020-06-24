@@ -221,6 +221,32 @@ public class VisitorPattern {
             return root;
     }
 
+    private static void addChildren(TreeNode parent, Integer parentNum) 
+    {
+        for (Integer treeNum : myHash.get(parentNum)) 
+        {
+            myHash.get(treeNum).remove(parentNum);
+
+            HashSet<Integer> grandChildren = myHash.get(treeNum);
+
+            boolean childHasChild = (grandChildren != null && !grandChildren.isEmpty());
+            Tree tree;
+            if (childHasChild) 
+            {
+                tree = new TreeNode(values[treeNum - 1], colors[treeNum - 1], parent.getDepth() + 1);
+            } 
+            else 
+            {
+                tree = new TreeLeaf(values[treeNum - 1], colors[treeNum - 1], parent.getDepth() + 1);
+            }
+            parent.addChild(tree);
+
+            if (tree instanceof TreeNode) {
+                addChildren((TreeNode) tree, treeNum);
+            }
+        }
+    }
+
     public static void main(String[] args) {
         Tree root = solve();
       SumInLeavesVisitor vis1 = new SumInLeavesVisitor();
