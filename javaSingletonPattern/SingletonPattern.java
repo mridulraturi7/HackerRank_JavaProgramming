@@ -36,6 +36,8 @@ public class SingletonPattern {
         Scanner scan = new Scanner(System.in);
         String str = scan.nextLine();
 
+        scan.close();
+
         Singleton s_Object = Singleton.getSingleInstance();
 
         s_Object.setStr(str);
