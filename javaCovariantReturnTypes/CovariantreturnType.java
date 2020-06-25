@@ -22,6 +22,16 @@ class Jasmine extends Flower {
 
 }
 
+class Lily extends Flower{
+
+    @Override
+    public String whatsYourName()
+    {
+        return "Lily";
+    }
+
+}
+
 public class CovariantReturnType {
 
     public static void main(String[] args) throws IOException {
