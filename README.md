@@ -132,4 +132,4 @@ The problems are listed below :
 
 60 : Java Annotations.
 
-61 : Java Covariant Return Types.
+61 : Covariant Return Types.
