@@ -49,6 +49,16 @@ class WestBengal extends Region{
 
 }
 
+class AndhraPradesh extends Region {
+
+    @Override
+    public Lily yourNationalFlower()
+    {
+        return new Lily();
+    }
+
+}
+
 public class CovariantReturnType {
 
     public static void main(String[] args) throws IOException {
