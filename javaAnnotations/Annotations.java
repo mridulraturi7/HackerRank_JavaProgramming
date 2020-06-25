@@ -7,30 +7,35 @@ import java.lang.Class;
 
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
-@interface FamilyBudget {
+@interface FamilyBudget 
+{
 	String userRole() default "GUEST";
     int budget() default 0;
 }
 
-class FamilyMember {
+class FamilyMember 
+{
     @FamilyBudget(userRole = "SENIOR", budget = 100)
-	public void seniorMember(int budget, int moneySpend) {
+    public void seniorMember(int budget, int moneySpend) 
+    {
 		System.out.println("Senior Member");
 		System.out.println("Spend: " + moneySpend);
 		System.out.println("Budget Left: " + (budget - moneySpend));
 	}
 
 	@FamilyBudget(userRole = "JUNIOR", budget = 50)
-    public void juniorUser(int budget, int moneySpend) {
+    public void juniorUser(int budget, int moneySpend) 
+    {
 		System.out.println("Junior Member");
 		System.out.println("Spend: " + moneySpend);
 		System.out.println("Budget Left: " + (budget - moneySpend));
 	}
 }
 
-public class Annotations {
-
-    public static void main(String[] args) {
+public class Annotations 
+{
+    public static void main(String[] args) 
+    {
 		Scanner in = new Scanner(System.in);
 		int testCases = Integer.parseInt(in.nextLine());
 		while (testCases > 0) {
@@ -40,27 +45,32 @@ public class Annotations {
 				Class<?> annotatedClass = FamilyMember.class;
 				Method[] methods = annotatedClass.getMethods();
 				for (Method method : methods) {
-					if (method.isAnnotationPresent(FamilyBudget.class)) {
+                    if (method.isAnnotationPresent(FamilyBudget.class)) 
+                    {
 						FamilyBudget family = method
 								.getAnnotation(FamilyBudget.class);
 						String userRole = family.userRole();
 						int budgetLimit = family.budget(); //this line~~;
-						if (userRole.equals(role)) {
-                            if(budgetLimit >= spend){
+                        if (userRole.equals(role)) 
+                        {
+                            if(budgetLimit >= spend)
+                            {
 								method.invoke(FamilyMember.class.getDeclaredConstructor().newInstance(),
 										budgetLimit, spend);
-							}else{
+                            }
+                            else
+                            {
 								System.out.println("Budget Limit Over");
 							}
 						}
 					}
 				}
-			} catch (Exception e) {
+            } catch (Exception e) 
+            {
 				e.printStackTrace();
 			}
             testCases--;
         }
         in.close();
 	}
-    
 }
