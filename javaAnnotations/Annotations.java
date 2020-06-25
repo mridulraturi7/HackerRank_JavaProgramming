@@ -2,6 +2,7 @@ package javaAnnotations;
 
 import java.lang.annotation.*;
 import java.util.Scanner;
+import java.lang.reflect.*;
 
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
@@ -42,9 +43,9 @@ public class Annotations {
 						FamilyBudget family = method
 								.getAnnotation(FamilyBudget.class);
 						String userRole = family.userRole();
-						int budgetLimit = //~~Complete this line~~;
+						int budgetLimit = family.budget(); //this line~~;
 						if (userRole.equals(role)) {
-                            if(~~Complete this line~~){
+                            if(budgetLimit >= spend){
 								method.invoke(FamilyMember.class.newInstance(),
 										budgetLimit, spend);
 							}else{
