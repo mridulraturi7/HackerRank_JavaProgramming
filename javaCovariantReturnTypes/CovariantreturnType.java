@@ -39,6 +39,16 @@ class Region {
     }
 }
 
+class WestBengal extends Region{
+
+    @Override
+    public Jasmine yourNationalFlower()
+    {
+        return new Jasmine();
+    }
+
+}
+
 public class CovariantReturnType {
 
     public static void main(String[] args) throws IOException {
