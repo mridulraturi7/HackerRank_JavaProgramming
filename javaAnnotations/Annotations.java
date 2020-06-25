@@ -1,5 +1,6 @@
 package javaAnnotations;
 
+import java.lang.annotation.*;
 import java.util.Scanner;
 
 @Target(ElementType.METHOD)
