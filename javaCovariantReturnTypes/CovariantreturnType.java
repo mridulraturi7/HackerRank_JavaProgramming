@@ -1,6 +1,6 @@
 package javaCovariantReturnTypes;
 
-public class CovariantreturnType {
+public class CovariantReturnType {
 
     
     
