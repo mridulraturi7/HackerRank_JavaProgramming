@@ -1,5 +1,12 @@
 package javaAnnotations;
 
+@Target(ElementType.METHOD)
+@Retention(RetentionPolicy.RUNTIME)
+@interface FamilyBudget {
+	String userRole() default "GUEST";
+    int budget() default 0;
+}
+
 public class Annotations {
 
     public static void main(String[] args) {
