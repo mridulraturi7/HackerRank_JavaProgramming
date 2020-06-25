@@ -3,6 +3,7 @@ package javaAnnotations;
 import java.lang.annotation.*;
 import java.util.Scanner;
 import java.lang.reflect.*;
+import java.lang.Class;
 
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
