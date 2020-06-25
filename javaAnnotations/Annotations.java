@@ -1,5 +1,7 @@
 package javaAnnotations;
 
+import java.util.Scanner;
+
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
 @interface FamilyBudget {
