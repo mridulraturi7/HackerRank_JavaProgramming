@@ -32,6 +32,13 @@ class Lily extends Flower{
 
 }
 
+class Region {
+    public Flower yourNationalFlower()
+    {
+        return new Flower();
+    }
+}
+
 public class CovariantReturnType {
 
     public static void main(String[] args) throws IOException {
