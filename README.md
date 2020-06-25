@@ -129,3 +129,5 @@ The problems are listed below :
 58 : Java Singleton Pattern.
 
 59 : Java Visitor Pattern.
+
+60 : Java Annotations.
