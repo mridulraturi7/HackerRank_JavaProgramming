@@ -4,6 +4,14 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
+//Complete the classes below
+class Flower {
+    public String whatsYourName()
+    {
+        return "I have many names and types.";
+    }
+}
+
 public class CovariantReturnType {
 
     public static void main(String[] args) throws IOException {
