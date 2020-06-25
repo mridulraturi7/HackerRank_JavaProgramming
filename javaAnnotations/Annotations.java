@@ -47,7 +47,7 @@ public class Annotations {
 						int budgetLimit = family.budget(); //this line~~;
 						if (userRole.equals(role)) {
                             if(budgetLimit >= spend){
-								method.invoke(FamilyMember.class.newInstance(),
+								method.invoke(FamilyMember.class.getDeclaredConstructor().newInstance(),
 										budgetLimit, spend);
 							}else{
 								System.out.println("Budget Limit Over");
