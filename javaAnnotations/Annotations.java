@@ -37,7 +37,7 @@ public class Annotations {
 			String role = in.next();
 			int spend = in.nextInt();
 			try {
-				Class annotatedClass = FamilyMember.class;
+				Class<?> annotatedClass = FamilyMember.class;
 				Method[] methods = annotatedClass.getMethods();
 				for (Method method : methods) {
 					if (method.isAnnotationPresent(FamilyBudget.class)) {
