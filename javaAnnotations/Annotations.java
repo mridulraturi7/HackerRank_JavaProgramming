@@ -59,8 +59,8 @@ public class Annotations {
 				e.printStackTrace();
 			}
             testCases--;
-            in.close();
-		}
+        }
+        in.close();
 	}
     
 }
