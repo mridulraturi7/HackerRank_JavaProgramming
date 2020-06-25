@@ -58,7 +58,8 @@ public class Annotations {
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
-			testCases--;
+            testCases--;
+            in.close();
 		}
 	}
     
