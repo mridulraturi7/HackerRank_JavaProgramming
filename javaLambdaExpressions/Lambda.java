@@ -1,5 +1,8 @@
 package javaLambdaExpressions;
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
 interface PerformOperation {
     boolean check(int a);
    }
