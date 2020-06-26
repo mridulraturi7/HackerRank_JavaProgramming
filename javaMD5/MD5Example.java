@@ -1,5 +1,7 @@
 package javaMD5;
 
+import java.util.Scanner;
+
 public class MD5Example {
 
     public static void main(String[] args) {
