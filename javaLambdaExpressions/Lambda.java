@@ -55,6 +55,31 @@ class MyMath
         });
         return p1;
     }
+
+    public PerformOperation isPalindrome()
+    {
+        PerformOperation p2 = ((int n) -> {
+            int num = n;
+            int rem = 0, rev_num = 0;
+            while(n > 0)
+            {
+                rem = n%10;
+                rev_num = rev_num*10 + rem;
+                n = n/10;
+            }
+
+            if(num == rev_num)
+            {
+                return true;
+            }
+
+            else
+            {
+                return false;
+            }
+        });
+        return p2;
+    }
 }
 
 public class Lambda {
