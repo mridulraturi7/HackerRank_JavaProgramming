@@ -5,9 +5,10 @@ import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-public class MD5Example {
-
-    public static void main(String[] args) {
+public class MD5Example 
+{
+    public static void main(String[] args) 
+    {
         Scanner scan = new Scanner(System.in);
 
         String str = scan.next();
@@ -40,6 +41,5 @@ public class MD5Example {
         {
             throw new RuntimeException(aE);
         }
-    }
-    
+    } 
 }
