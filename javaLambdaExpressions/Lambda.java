@@ -13,6 +13,22 @@ class MyMath
     public static boolean checker(PerformOperation p, int num) {
      return p.check(num);
     }
+
+    // Write your code here
+
+    public PerformOperation isOdd()
+    {
+        PerformOperation p0 = ((int n) -> {
+            if(n%2 == 0){
+                return false;
+            }
+            else{
+                return true;
+            }
+        });
+        return p0;
+    }
+    
 }
 
 public class Lambda {
