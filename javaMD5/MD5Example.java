@@ -1,6 +1,8 @@
 package javaMD5;
 
 import java.util.Scanner;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
 
 public class MD5Example {
 
@@ -13,6 +15,11 @@ public class MD5Example {
         System.out.println(getMD5(str));
 
         scan.close();
+    }
+
+    public static String getMD5(String str)
+    {
+        
     }
     
 }
