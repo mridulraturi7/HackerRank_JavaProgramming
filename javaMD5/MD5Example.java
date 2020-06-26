@@ -19,14 +19,15 @@ public class MD5Example {
 
     public static String getMD5(String str)
     {
-        try{
+        try
+        {
             MessageDigest mD = MessageDigest.getInstance("MD5");
 
             byte[] messageDigest = mD.digest(str.getBytes());
 
-            BigInteger bD = new BigInteger(1, messageDigest);
+            BigInteger bI = new BigInteger(1, messageDigest); //for converting byte array into signum representation
 
-            String hashValue = bD.toString(16);
+            String hashValue = bI.toString(16);   //16 for hex value
 
             while(hashValue.length() < 32)
             {
@@ -34,11 +35,11 @@ public class MD5Example {
             }
 
             return hashValue;
-        } catch(NoSuchAlgorithmException aE)
+        }
+        catch(NoSuchAlgorithmException aE)
         {
             throw new RuntimeException(aE);
         }
-        
     }
     
 }
