@@ -1,6 +1,7 @@
 package javaMD5;
 
 import java.util.Scanner;
+import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
@@ -25,7 +26,14 @@ public class MD5Example {
 
         BigInteger bD = new BigInteger(1, messageDigest);
 
-        
+        String hashValue = bD.toString(16);
+
+        while(hashValue.length() < 32)
+        {
+            hashValue = "0" + hashValue;
+        }
+
+        return hashValue;
     }
     
 }
