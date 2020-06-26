@@ -19,6 +19,12 @@ public class MD5Example {
 
     public static String getMD5(String str)
     {
+        MessageDigest mD = MessageDigest.getInstance("MD5");
+
+        byte[] messageDigest = mD.digest(str.getBytes());
+
+        BigInteger bD = new BigInteger(1, messageDigest);
+
         
     }
     
