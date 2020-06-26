@@ -28,7 +28,33 @@ class MyMath
         });
         return p0;
     }
-    
+
+    public PerformOperation isPrime()
+    {
+        PerformOperation p1 = ((int n) -> {
+            if(n <= 1){
+                return false;
+            }
+
+            else if(n == 2){
+                return true;
+            }
+
+            else if(n%2 == 0){
+                return false;
+            }
+
+            for(int i = 2; i <= (int)Math.sqrt(n); i++)
+            {
+                if(n%i == 0)
+                {
+                    return false;
+                }
+            }
+            return true;
+        });
+        return p1;
+    }
 }
 
 public class Lambda {
