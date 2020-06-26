@@ -1,6 +1,9 @@
 package javaMD5;
 
 import java.util.Scanner;
+
+import javax.management.RuntimeErrorException;
+
 import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -20,20 +23,26 @@ public class MD5Example {
 
     public static String getMD5(String str)
     {
-        MessageDigest mD = MessageDigest.getInstance("MD5");
+        try{
+            MessageDigest mD = MessageDigest.getInstance("MD5");
 
-        byte[] messageDigest = mD.digest(str.getBytes());
+            byte[] messageDigest = mD.digest(str.getBytes());
 
-        BigInteger bD = new BigInteger(1, messageDigest);
+            BigInteger bD = new BigInteger(1, messageDigest);
 
-        String hashValue = bD.toString(16);
+            String hashValue = bD.toString(16);
 
-        while(hashValue.length() < 32)
+            while(hashValue.length() < 32)
+            {
+                hashValue = "0" + hashValue;
+            }
+
+            return hashValue;
+        } catch(NoSuchAlgorithmException aE)
         {
-            hashValue = "0" + hashValue;
+            throw new RuntimeException(aE);
         }
-
-        return hashValue;
+        
     }
     
 }
