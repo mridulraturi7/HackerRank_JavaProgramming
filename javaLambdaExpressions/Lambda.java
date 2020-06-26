@@ -15,8 +15,6 @@ class MyMath
      return p.check(num);
     }
 
-    // Write your code here
-
     public PerformOperation isOdd()
     {
         PerformOperation p0 = ((int n) -> {
