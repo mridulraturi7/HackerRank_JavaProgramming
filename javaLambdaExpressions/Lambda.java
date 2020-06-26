@@ -2,6 +2,7 @@ package javaLambdaExpressions;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.io.IOException;
 
 interface PerformOperation {
     boolean check(int a);
