@@ -1,5 +1,9 @@
 package javaLambdaExpressions;
 
+interface PerformOperation {
+    boolean check(int a);
+   }
+
 public class Lambda {
 
     public static void main(String[] args) throws IOException {
