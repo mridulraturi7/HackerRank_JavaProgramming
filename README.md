@@ -133,3 +133,5 @@ The problems are listed below :
 60 : Java Annotations.
 
 61 : Covariant Return Types.
+
+62 : Java Lambda Expressions.
