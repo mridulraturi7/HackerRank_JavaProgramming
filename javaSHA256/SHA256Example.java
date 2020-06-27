@@ -3,7 +3,7 @@ package javaSHA256;
 import java.util.Scanner;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-import java.meth.BigInteger;
+import java.math.BigInteger;
 
 public class SHA256Example {
 
