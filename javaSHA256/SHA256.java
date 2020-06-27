@@ -1,5 +1,7 @@
 package javaSHA256;
 
+import java.util.Scanner;
+
 public class SHA256 {
 
     public static void main(String[] args) {
