@@ -5,9 +5,10 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.math.BigInteger;
 
-public class SHA256Example {
-
-    public static void main(String[] args) {
+public class SHA256Example 
+{
+    public static void main(String[] args) 
+    {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
 
         Scanner scan = new Scanner(System.in);
@@ -42,6 +43,5 @@ public class SHA256Example {
         {
             throw new RuntimeException(aE);
         }
-    }
-    
+    }  
 }
