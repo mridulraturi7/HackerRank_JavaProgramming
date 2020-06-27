@@ -15,6 +15,8 @@ public class SHA256Example {
         String str = scan.next();
 
         findSHA256Hash(str);
+
+        scan.close();
     }
 
     public static void findSHA256Hash(String str)
