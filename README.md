@@ -137,3 +137,5 @@ The problems are listed below :
 62 : Java Lambda Expressions.
 
 63 : Java MD5.
+
+64 : Java SHA-256.
