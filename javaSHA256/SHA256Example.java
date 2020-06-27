@@ -29,7 +29,7 @@ public class SHA256Example {
 
             String hashValue = bD.toString(16);
 
-            while(hashValue.length() < 32)
+            while(hashValue.length() < 64)
             {
                 hashValue = "0" + hashValue;
             }
