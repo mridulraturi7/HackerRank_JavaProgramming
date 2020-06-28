@@ -1,6 +1,7 @@
 package javaBasicCertification.howWillYouCompare;
 
 import java.util.Scanner;
+import java.util.Arrays;
 
 class Comparator
 {
