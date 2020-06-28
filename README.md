@@ -141,3 +141,7 @@ The problems are listed below :
 64 : Java SHA-256.
 
 Total Problems - 64 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Completed - 64
+
+Java Basic Certification:
+
+    1 : How Will You Compare?
