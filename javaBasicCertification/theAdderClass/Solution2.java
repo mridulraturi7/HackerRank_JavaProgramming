@@ -21,6 +21,9 @@ public class Solution2 {
             a = scan.nextInt();
             b = scan.nextInt();
         }
+
+        Calculator adderObject = new Adder();
+        System.out.println("The sum is: " + adderObject.add(a, b));
     }
     
 }
