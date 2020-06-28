@@ -142,7 +142,7 @@ The problems are listed below :
 
 Total Problems - 64 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Completed - 64
 
-Java Basic Certification:
+Skill Certification - Java Basic :
 
     1 : How Will You Compare?
 
