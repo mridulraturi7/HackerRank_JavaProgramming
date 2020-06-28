@@ -2,6 +2,36 @@ package javaBasicCertification.howWillYouCompare;
 
 import java.util.Scanner;
 
+class Comparator
+{
+    public boolean compare(int a, int b)
+    {
+        if(a == b)
+        {
+            return true;
+        }
+        return false;
+    }
+
+    public boolean compare(String a, String b)
+    {
+        if(a.equals(b))
+        {
+            return true;
+        }
+        return false;
+    }
+
+    public boolean compare(int[] a, int[] b)
+    {
+        if(Arrays.equals(a, b))
+        {
+            return true;
+        }
+        return false;
+    }
+}
+
 public class Solution1 {
 
     public static void main(String[] args) {
