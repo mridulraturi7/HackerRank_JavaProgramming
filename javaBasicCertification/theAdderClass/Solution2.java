@@ -6,6 +6,13 @@ abstract class Calculator{
     abstract int add(int a, int b);
 }
 
+class Adder extends Calculator{
+    public int add(int a, int b)
+    {
+        return a+b;
+    }
+}
+
 public class Solution2 {
 
     public static void main(String[] args) {
