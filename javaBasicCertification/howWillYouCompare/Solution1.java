@@ -33,10 +33,10 @@ class Comparator
     }
 }
 
-public class Solution1 {
-
-    public static void main(String[] args) {
-        
+public class Solution1 
+{
+    public static void main(String[] args) 
+    {
         Scanner scan = new Scanner(System.in);
 
         Comparator comp = new Comparator();
@@ -46,7 +46,8 @@ public class Solution1 {
         while(testCases-- > 0)
         {
             int condition = Integer.parseInt(scan.nextLine());
-            switch(condition){
+            switch(condition)
+            {
                 case 1:
                     String s1 = scan.nextLine().trim();
                     String s2 = scan.nextLine().trim();
