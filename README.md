@@ -56,9 +56,9 @@ The problems are listed below :
 
 26 : [Java Two Dimensional Array](javaTwoDArray/TwoDArray.java).
 
-27 : Java Inheritance I.
+27 : [Java Inheritance I](javaInheritance1/InheritanceOne.java).
 
-28 : Java Inheritance II.
+28 : [Java Inheritance II](javaInheritance2/InheritanceTwo.java).
 
 29 : Java Exception Handling(Try - Catch).
 
