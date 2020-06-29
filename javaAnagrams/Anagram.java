@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Anagram {
     
-    static boolean isAnagram(String a, String b) {
+    static boolean isAnagram(String a, String b) 
+    {
         int l1,l2;
         l1=a.length();
         l2=b.length();
@@ -22,31 +23,31 @@ public class Anagram {
         if(l1 == l2)
         {
             for(int i=0;i<l1;i++)
-        {
-            freq1[i]=0;
-            freq2[i]=0;
-            char ch = C[i];
-            for(int j=0;j<l2;j++)
             {
-                if(ch == C[j])
+                freq1[i]=0;
+                freq2[i]=0;
+                char ch = C[i];
+                for(int j=0;j<l2;j++)
                 {
-                    freq1[i]++;
-                }
+                    if(ch == C[j])
+                    {
+                        freq1[i]++;
+                    }
 
-                if(ch == D[j])
-                {
-                    freq2[i]++;
+                    if(ch == D[j])
+                    {
+                        freq2[i]++;
+                    }
                 }
             }
-        }
 
-        for(int i=0;i<l1;i++)
-        {
-            if(freq1[i]==freq2[i])
+            for(int i=0;i<l1;i++)
             {
-                count++;
+                if(freq1[i]==freq2[i])
+                {
+                    count++;
+                }
             }
-        }
 
         }
 
@@ -60,8 +61,8 @@ public class Anagram {
 
     }
 
-  public static void main(String[] args) {
-    
+    public static void main(String[] args) 
+    {
         Scanner scan = new Scanner(System.in);
         String a = scan.next();
         String b = scan.next();
@@ -69,5 +70,4 @@ public class Anagram {
         boolean ret = isAnagram(a, b);
         System.out.println( (ret) ? "Anagrams" : "Not Anagrams" );
     }
-
 }
