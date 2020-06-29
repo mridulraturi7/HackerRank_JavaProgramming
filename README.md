@@ -14,15 +14,15 @@ The problems are listed below :
 
 5 : [Java Output Formatting](javaOutputFormatting/OutputFormat.java).
 
-6 : Java Loops 1.
+6 : [Java Loops 1](javaLoops1/Loop1.java).
 
-7 : Java Loops 2.
+7 : [Java Loops 2](javaLoops2/Loop2.java).
 
-8 : Java Datatypes.
+8 : [Java Datatypes](javaDatatypes/Datatype.java).
 
-9 : Java End of File.
+9 : [Java End of File](javaEndOfFile/EOF.java).
 
-10 : Java Static Initializer Block.
+10 : [Java Static Initializer Block](javaStaticInitializerBlock/StaticBlock.java).
 
 11 : Java Int To String.
 
