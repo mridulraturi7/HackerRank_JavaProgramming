@@ -1,4 +1,4 @@
-package javaSubstrings;
+package javaSubstring;
 
 import java.util.Scanner;
 
