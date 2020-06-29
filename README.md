@@ -34,7 +34,7 @@ The problems are listed below :
 
 15 : [Java Substring](javaSubstring/SubString.java).
 
-16 : [Java Substring Comparison](javaSubstringComparison/StringCompare.java).
+16 : [Java Substring Comparison](javaSubstringComparison/SubstringCompare.java).
 
 17 : [Java String Reverse](javaStringReverse/StringReverse.java).
 
