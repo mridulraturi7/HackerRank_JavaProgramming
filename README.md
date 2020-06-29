@@ -42,7 +42,7 @@ The problems are listed below :
 
 19 : [Java String Tokens](javaStringTokens/StringToken.java).
 
-20 : [Java Pattern Syntax Checker](javaPatternSyntaxChecker/SyntexChecker.java).
+20 : [Java Pattern Syntax Checker](javaPatternSyntaxChecker/SyntaxChecker.java).
 
 21 : Java Regex.
 
