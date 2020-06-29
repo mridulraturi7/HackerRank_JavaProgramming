@@ -34,11 +34,11 @@ The problems are listed below :
 
 15 : [Java Substring](javaSubstring/SubString.java).
 
-16 : Java Substring Comparison.
+16 : [Java Substring Comparison](javaSubstringComparison/StringCompare.java).
 
-17 : Java String Reverse.
+17 : [Java String Reverse](javaStringReverse/StringReverse.java).
 
-18 : Java Anagrams.
+18 : [Java Anagrams](javaAnagrams/Anagram.java).
 
 19 : Java String Tokens.
 
