@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class Anagram {
     
     static boolean isAnagram(String a, String b) {
-        // Complete the function
-
         int l1,l2;
         l1=a.length();
         l2=b.length();
