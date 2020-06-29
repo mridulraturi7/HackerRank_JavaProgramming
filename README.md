@@ -48,9 +48,9 @@ The problems are listed below :
 
 22 : [Java Regex 2 - Duplicate Words](javaRegexTwo/DuplicateWords.java).
 
-23 : Java Valid Username Regular Expression.
+23 : [Java Valid Username Regular Expression](javaValidUsername/UsernameRegex.java).
 
-24 : Java Tag Content Extractor.
+24 : [Java Tag Content Extractor](javaTagContentExtractor/ContentExtractor.java).
 
 25 : Java One Dimensional Array.
 
