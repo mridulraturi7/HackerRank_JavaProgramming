@@ -7,8 +7,7 @@ import java.util.ArrayList;
 public class ListExample {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-
+        
         List<Integer> list = new ArrayList<>();
 
         Scanner scan = new Scanner(System.in);
