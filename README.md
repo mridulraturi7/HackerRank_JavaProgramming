@@ -60,9 +60,9 @@ The problems are listed below :
 
 28 : [Java Inheritance II](javaInheritance2/InheritanceTwo.java).
 
-29 : Java Exception Handling(Try - Catch).
+29 : [Java Exception Handling(Try - Catch)](javaExceptionHandlingTryCatch/TryCatch.java).
 
-30 : Java List.
+30 : [Java List](javaList/ListExample.java).
 
 31 : Java Interface.
 
