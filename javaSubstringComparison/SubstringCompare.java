@@ -8,7 +8,6 @@ public class SubstringCompare {
         String smallest = s.substring(0,k);
         String largest = "";
 
-        // Complete the function
         // 'smallest' must be the lexicographically smallest substring of length 'k'
         // 'largest' must be the lexicographically largest substring of length 'k'
 
