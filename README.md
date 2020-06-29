@@ -24,15 +24,15 @@ The problems are listed below :
 
 10 : [Java Static Initializer Block](javaStaticInitializerBlock/StaticBlock.java).
 
-11 : Java Int To String.
+11 : [Java Int To String](javaIntToString/IntToString.java).
 
-12 : Java Date And Time.
+12 : [Java Date And Time](javaDateAndTime/DateAndTime.java).
 
-13 : Java Currency Formatter.
+13 : [Java Currency Formatter](javaCurrencyFormatter/CurrencyFormatter.java).
 
-14 : Java Strings Introduction.
+14 : [Java Strings Introduction](javaStringsIntroduction/StringIntro.java).
 
-15 : Java Substring.
+15 : [Java Substring](javaSubstrings/SubString.java).
 
 16 : Java Substring Comparison.
 
