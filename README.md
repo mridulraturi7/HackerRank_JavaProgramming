@@ -6,13 +6,13 @@ The problems are listed below :
 
 1 : [Welcome to Java](welcomeToJava/Welcome.java).
 
-2 : Java Stdin and Stdout 1.
+2 : [Java Stdin and Stdout 1](javaStdinAndStdout1/Stdin1.java).
 
-3 : Java If - Else.
+3 : [Java If - Else](javaIfElse/IfElse.java).
 
-4 : Java Stdin and Stdout 2.
+4 : [Java Stdin and Stdout 2](javaStdinAndStdout2/Stdin2.java).
 
-5 : Java Output Formatting.
+5 : [Java Output Formatting](javaOutputFormatting/OutputFormat.java).
 
 6 : Java Loops 1.
 
