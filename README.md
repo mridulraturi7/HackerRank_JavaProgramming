@@ -32,7 +32,7 @@ The problems are listed below :
 
 14 : [Java Strings Introduction](javaStringsIntroduction/StringIntro.java).
 
-15 : [Java Substring](javaSubstrings/SubString.java).
+15 : [Java Substring](javaSubstring/SubString.java).
 
 16 : Java Substring Comparison.
 
