@@ -40,9 +40,9 @@ The problems are listed below :
 
 18 : [Java Anagrams](javaAnagrams/Anagram.java).
 
-19 : Java String Tokens.
+19 : [Java String Tokens](javaStringTokens/StringToken.java).
 
-20 : Java Pattern Syntax Checker.
+20 : [Java Pattern Syntax Checker](javaPatternSyntaxChecker/SyntexChecker.java).
 
 21 : Java Regex.
 
