@@ -4,7 +4,7 @@ The repository contains solutions of the Java Problems available on the HackerRa
 
 The problems are listed below : 
 
-1 : Welcome to Java.
+1 : [Welcome to Java](welcomeToJava/Welcome.java).
 
 2 : Java Stdin and Stdout 1.
 
