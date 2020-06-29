@@ -44,9 +44,9 @@ The problems are listed below :
 
 20 : [Java Pattern Syntax Checker](javaPatternSyntaxChecker/SyntaxChecker.java).
 
-21 : Java Regex.
+21 : [Java Regex](javaRegex/Regex.java).
 
-22 : Java Regex 2 - Duplicate Words.
+22 : [Java Regex 2 - Duplicate Words](javaRegexTwo/DuplicateWords.java).
 
 23 : Java Valid Username Regular Expression.
 
