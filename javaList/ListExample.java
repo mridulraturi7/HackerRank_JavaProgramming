@@ -4,10 +4,10 @@ import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
 
-public class ListExample {
-
-    public static void main(String[] args) {
-        
+public class ListExample 
+{
+    public static void main(String[] args) 
+    {
         List<Integer> list = new ArrayList<>();
 
         Scanner scan = new Scanner(System.in);
@@ -46,6 +46,5 @@ public class ListExample {
         {
             System.out.printf("%d ", i);
         }
-    }
-    
+    } 
 }
