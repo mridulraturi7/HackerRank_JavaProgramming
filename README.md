@@ -52,9 +52,9 @@ The problems are listed below :
 
 24 : [Java Tag Content Extractor](javaTagContentExtractor/ContentExtractor.java).
 
-25 : Java One Dimensional Array.
+25 : [Java One Dimensional Array](javaOneDArray/OneDArray.java).
 
-26 : Java Two Dimensional Array.
+26 : [Java Two Dimensional Array](javaTwoDArray/TwoDArray.java).
 
 27 : Java Inheritance I.
 
