@@ -4,6 +4,8 @@
 <img src="hackerRankLogo.png" align="center" width="140" />
 </div>
 
+<p>&nbsp;</p>
+
 The repository contains solutions of the Java Problems available on the HackerRank coding platform.
 
 The problems are listed below : 
