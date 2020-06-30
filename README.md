@@ -80,9 +80,9 @@ The problems are listed below :
 
 38 : [Java Primality Test](javaPrimalityTest/Primality.java).
 
-39 : Java Subarray.
+39 : [Java Subarray](javaSubArray/SubArray.java).
 
-40 : Java ArrayList.
+40 : [Java ArrayList](javaArrayList/ArrayListExample.java).
 
 41 : Java Map.
 
