@@ -1,5 +1,7 @@
 # HackerRank_JavaProgramming
 
+<p>&nbsp;</p>
+
 <div align = "center">
 <img src="hackerRankLogo.png" width="140" />
 </div>
