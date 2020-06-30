@@ -88,7 +88,7 @@ The problems are listed below :
 
 42 : [Java 1D Array (Part 2)](javaOneDArrayPart2/Array2.java).
 
-43 : Java Stack.
+43 : [Java Stack](javaStack).
 
     43.1 : Using Array.
 
