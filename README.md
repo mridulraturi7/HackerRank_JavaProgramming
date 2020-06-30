@@ -68,9 +68,9 @@ The problems are listed below :
 
 32 : [Java Exception Handling](javaExceptionHandling/ExceptionHandling.java).
 
-33 : Java BigInteger.
+33 : [Java BigInteger](javaBigInteger/BigIntegerExample.java).
 
-34 : Java Generics.
+34 : [Java Generics](javaGenerics/GenericsExample.java).
 
 35 : Java Method Overriding.
 
