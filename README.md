@@ -1,7 +1,7 @@
 # HackerRank_JavaProgramming
 
 <div style="text-align: center">
-<img src="hackerRankLogo.png" width="80" />
+<img src="hackerRankLogo.png" style = "margin: auto" width="80" />
 </div>
 
 The repository contains solutions of the Java Problems available on the HackerRank coding platform.
