@@ -84,9 +84,9 @@ The problems are listed below :
 
 40 : [Java ArrayList](javaArrayList/ArrayListExample.java).
 
-41 : Java Map.
+41 : [Java Map](javaMap/MapExample.java).
 
-42 : Java 1D Array (Part 2).
+42 : [Java 1D Array (Part 2)](javaOneDArrayPart2/Array2.java).
 
 43 : Java Stack.
 
