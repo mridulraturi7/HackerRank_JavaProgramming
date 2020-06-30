@@ -1,6 +1,6 @@
 # HackerRank_JavaProgramming
 
-![HackerRank Logo](hackerRankLogo.png)
+![HackerRank Logo](hackerRankLogo.png = 24x48)
 
 The repository contains solutions of the Java Problems available on the HackerRank coding platform.
 
