@@ -64,9 +64,9 @@ The problems are listed below :
 
 30 : [Java List](javaList/ListExample.java).
 
-31 : Java Interface.
+31 : [Java Interface](javaInterface/InterfaceExample.java).
 
-32 : Java Exception Handling.
+32 : [Java Exception Handling](javaExceptionHandling/ExceptionHandling.java).
 
 33 : Java BigInteger.
 
