@@ -12,11 +12,11 @@ public class MapExample {
 		Scanner in = new Scanner(System.in);
 		int n=in.nextInt();
 		in.nextLine();
-		for(int i=0;i<n;i++)
+		for(int i = 0; i < n; i++)
 		{
-			String name=in.nextLine();
-			int phone=in.nextInt();
-        	myMap.put(name, phone);
+			String name = in.nextLine();
+			int phone = in.nextInt();
+			myMap.put(name, phone);
 			in.nextLine();
 		}
 		while(in.hasNext())
