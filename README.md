@@ -76,9 +76,9 @@ The problems are listed below :
 
 36 : [Java Method Overriding Two (Super Keyword)](javaMethodOverridingTwo/MethodOverridingTwo.java).
 
-37 : Java BigDecimal.
+37 : [Java BigDecimal](javaBigDecimal/BigdecimalExample.java).
 
-38 : Java Primality Test.
+38 : [Java Primality Test](javaPrimalityTest/Primality.java).
 
 39 : Java Subarray.
 
