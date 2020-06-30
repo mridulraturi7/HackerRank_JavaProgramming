@@ -6,8 +6,8 @@ import java.util.HashMap;
 
 public class MapExample 
 {
-    public static void main(String []argh)
-    {
+	public static void main(String []argh)
+	{
 		Map<String, Integer> myMap = new HashMap<>();
 		Scanner in = new Scanner(System.in);
 		int n=in.nextInt();
@@ -29,7 +29,7 @@ public class MapExample
 				System.out.println(s + "=" + myMap.get(s));
 			}
 			else
-            {
+			{
 				System.out.println("Not found");
 			}
 		}
