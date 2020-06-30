@@ -90,9 +90,9 @@ The problems are listed below :
 
 43 : [Java Stack](javaStack).
 
-    43.1 : [Using Array](javaStack/UsingArray.java).
+    + 43.1 : [Using Array](javaStack/UsingArray.java).
 
-    43.2 : [Using Stack](javaStack/UsingStack.java).
+    + 43.2 : [Using Stack](javaStack/UsingStack.java).
 
 44 : Java HashSet.
 
