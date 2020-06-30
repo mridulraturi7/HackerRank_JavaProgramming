@@ -16,7 +16,7 @@ public class MapExample {
 		{
 			String name=in.nextLine();
 			int phone=in.nextInt();
-            myMap.put(name, phone);
+        	myMap.put(name, phone);
 			in.nextLine();
 		}
 		while(in.hasNext())
