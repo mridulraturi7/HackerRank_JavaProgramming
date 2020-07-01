@@ -128,9 +128,9 @@ The problems are listed below :
 
 54 : [Java Reflection - Attributes](javaReflectionAttributes/ReflectionAttributes.java).
 
-55 : Can You Access?
+55 : [Can You Access?](javaCanYouAccess/Access.java)
 
-56 : Prime Checker.
+56 : [Prime Checker](javaPrimeChecker/PrimeChecker.java).
 
 57 : Java Factory Pattern.
 
