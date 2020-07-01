@@ -41,11 +41,11 @@ public class Access
         {
             private String powerof2(int num)
             {
-				return ((num&num-1)==0)?"power of 2":"not a power of 2";
-			}
-		}
-	}//end of Inner
-	
+                return ((num&num-1)==0)?"power of 2":"not a power of 2";
+            }
+        }
+    }//end of Inner
+
 }//end of Solution
 
 class DoNotTerminate { //This class prevents exit(0)
