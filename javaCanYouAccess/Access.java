@@ -6,33 +6,32 @@ import java.security.Permission;
 
 public class Access
 {
-    public static void main(String[] args) throws Exception 
+    public static void main(String[] args) throws Exception
     {
-		DoNotTerminate.forbidExit();	
-
-		try{
-			BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-			int num = Integer.parseInt(br.readLine().trim());
-			Object o;// Must be used to hold the reference of the instance of the class Solution.Inner.Private
-
+        DoNotTerminate.forbidExit();
+        
+        try{
+            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+            int num = Integer.parseInt(br.readLine().trim());
+            Object o;// Must be used to hold the reference of the instance of the class Solution.Inner.Private
             Access.Inner staticInObject = new Access.Inner();   //No need to create outer class object for accessing static nested class.
-
+            
             Inner.Private inObject = staticInObject.new Private();   //Need to create outside class object to access inner class.
-
+            
             o = inObject;
-
+            
             String str = inObject.powerof2(num);
-
+            
             System.out.println(num + " is " + str);
             
             System.out.println("An instance of class: " + o.getClass().getCanonicalName() + " has been created");
-		
-		}//end of try
-		
-        catch (DoNotTerminate.ExitTrappedException e) 
+        
+        }//end of try
+        
+        catch (DoNotTerminate.ExitTrappedException e)
         {
-			System.out.println("Unsuccessful Termination!!");
-		}
+            System.out.println("Unsuccessful Termination!!");
+        }
     }//end of main
     
 
