@@ -46,7 +46,7 @@ public class Access
         }
     }//end of Inner
 
-}//end of Solution
+}//end of Access
 
 class DoNotTerminate { //This class prevents exit(0)
 	 
