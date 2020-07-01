@@ -110,9 +110,9 @@ The problems are listed below :
 
 47 : [Java Dequeue](javaDeque/DequeExample.java).
 
-48 : Java BitSet.
+48 : [Java BitSet](javaBitSet/BitSetExample.java).
 
-49 : Java Priority Queue.
+49 : [Java Priority Queue](javaPriorityQueue).
 
     49.1 : Without using Priority Queue.
 
