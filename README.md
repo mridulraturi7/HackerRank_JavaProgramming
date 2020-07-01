@@ -106,9 +106,9 @@ The problems are listed below :
 
 45 : [Java Comparator](javaComparator/ComparatorExample.java).
 
-46 : Java Sort.
+46 : [Java Sort](javaSort/SortExample.java).
 
-47 : Java Dequeue.
+47 : [Java Dequeue](javaDeque/DequeExample.java).
 
 48 : Java BitSet.
 
