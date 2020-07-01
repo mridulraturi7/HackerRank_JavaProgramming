@@ -93,5 +93,5 @@ public class SortExample
     {
       System.out.println(st.getFname());
     }
-	}
+  }
 }
