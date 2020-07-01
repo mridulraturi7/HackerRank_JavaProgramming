@@ -102,9 +102,9 @@ The problems are listed below :
 
 > 43.2 : [Using Stack](javaStack/UsingStack.java).
 
-44 : Java HashSet.
+44 : [Java HashSet](javaHashSet/HashSetExample.java).
 
-45 : Java Comparator.
+45 : [Java Comparator](javaComparator/ComparatorExample.java).
 
 46 : Java Sort.
 
