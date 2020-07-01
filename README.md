@@ -118,7 +118,7 @@ The problems are listed below :
 
 > 49.2 : [Using Priority Queue](javaPriorityQueue/WithPriorityQueue.java).
 
-50 : Java Abstract Class.
+50 : [Java Abstract Class](javaAbstractClass/AbstractClass.java).
 
 51 : Java Instanceof Keyword.
 
