@@ -120,9 +120,9 @@ The problems are listed below :
 
 50 : [Java Abstract Class](javaAbstractClass/AbstractClass.java).
 
-51 : Java Instanceof Keyword.
+51 : [Java Instanceof Keyword](javaInstanceOfKeyword/InstanceOfExample.java).
 
-52 : Java Iterator.
+52 : [Java Iterator](javaIterator/IteratorExample.java).
 
 53 : Java Varargs.
 
