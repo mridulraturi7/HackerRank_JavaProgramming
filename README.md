@@ -124,9 +124,9 @@ The problems are listed below :
 
 52 : [Java Iterator](javaIterator/IteratorExample.java).
 
-53 : Java Varargs.
+53 : [Java Varargs](javaVarargs/Varargs.java).
 
-54 : Java Reflection - Attributes.
+54 : [Java Reflection - Attributes](javaReflectionAttributes/ReflectionAttributes.java).
 
 55 : Can You Access?
 
