@@ -132,9 +132,9 @@ The problems are listed below :
 
 56 : [Prime Checker](javaPrimeChecker/PrimeChecker.java).
 
-57 : Java Factory Pattern.
+57 : [Java Factory Pattern](javaFactoryPattern/FactoryPattern.java).
 
-58 : Java Singleton Pattern.
+58 : [Java Singleton Pattern](javaSingletonPattern/SingletonPattern.java).
 
 59 : Java Visitor Pattern.
 
