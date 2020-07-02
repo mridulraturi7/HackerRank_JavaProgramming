@@ -140,9 +140,9 @@ The problems are listed below :
 
 60 : [Java Annotations](javaAnnotations/Annotations.java).
 
-61 : Covariant Return Types.
+61 : [Covariant Return Types](javaCovariantReturnTypes/CovariantReturnType.java).
 
-62 : Java Lambda Expressions.
+62 : [Java Lambda Expressions](javaLambdaExpressions/Lambda.java).
 
 63 : Java MD5.
 
