@@ -44,33 +44,33 @@ public class Annotations
 			try {
 				Class<?> annotatedClass = FamilyMember.class;
 				Method[] methods = annotatedClass.getMethods();
-				for (Method method : methods) {
-                    if (method.isAnnotationPresent(FamilyBudget.class)) 
-                    {
-						FamilyBudget family = method
-								.getAnnotation(FamilyBudget.class);
+				for (Method method : methods) 
+				{
+					if (method.isAnnotationPresent(FamilyBudget.class))
+					{
+						FamilyBudget family = method.getAnnotation(FamilyBudget.class);
 						String userRole = family.userRole();
 						int budgetLimit = family.budget(); //this line~~;
-                        if (userRole.equals(role)) 
-                        {
-                            if(budgetLimit >= spend)
-                            {
+						if (userRole.equals(role)) 
+						{
+							if(budgetLimit >= spend)
+							{
 								method.invoke(FamilyMember.class.getDeclaredConstructor().newInstance(),
-										budgetLimit, spend);
-                            }
-                            else
-                            {
+								budgetLimit, spend);
+							}
+							else
+							{
 								System.out.println("Budget Limit Over");
 							}
 						}
 					}
 				}
-            } catch (Exception e) 
-            {
+			}catch(Exception e)
+			{
 				e.printStackTrace();
 			}
-            testCases--;
-        }
-        in.close();
+			testCases--;
+		}
+		in.close();
 	}
 }
