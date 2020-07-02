@@ -150,7 +150,7 @@ The problems are listed below :
 
 Total Problems - 64 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Completed - 64
 
-<b># Skill Certification</b> - Java Basic :
+<b># Skill Certification</b> - [Java Basic](javaBasicCertification) :
 
 > 1 : [How Will You Compare?](javaBasicCertification/howWillYouCompare/Solution1.java)
 
