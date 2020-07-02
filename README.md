@@ -152,6 +152,6 @@ Total Problems - 64 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Completed - 64
 
 <b># Skill Certification</b> - Java Basic :
 
-    1 : [How Will You Compare?](javaBasicCertification/howWillYouCompare/Solution1.java)
+> 1 : [How Will You Compare?](javaBasicCertification/howWillYouCompare/Solution1.java)
 
-    2 : [The Adder Class](javaBasicCertification/theAdderClass/Solution2.java).
+> 2 : [The Adder Class](javaBasicCertification/theAdderClass/Solution2.java).
