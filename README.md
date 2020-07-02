@@ -144,9 +144,9 @@ The problems are listed below :
 
 62 : [Java Lambda Expressions](javaLambdaExpressions/Lambda.java).
 
-63 : Java MD5.
+63 : [Java MD5](javaMD5/MD5Example.java).
 
-64 : Java SHA-256.
+64 : [Java SHA-256](javaSHA256/SHA256Example.java).
 
 Total Problems - 64 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Completed - 64
 
