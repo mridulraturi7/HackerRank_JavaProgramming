@@ -136,9 +136,9 @@ The problems are listed below :
 
 58 : [Java Singleton Pattern](javaSingletonPattern/SingletonPattern.java).
 
-59 : Java Visitor Pattern.
+59 : [Java Visitor Pattern](javaVisitorPattern/VisitorPattern.java).
 
-60 : Java Annotations.
+60 : [Java Annotations](javaAnnotations/Annotations.java).
 
 61 : Covariant Return Types.
 
