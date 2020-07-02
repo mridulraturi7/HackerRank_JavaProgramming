@@ -154,4 +154,4 @@ Total Problems - 64 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Completed - 64
 
     1 : [How Will You Compare?](javaBasicCertification/howWillYouCompare/Solution1.java)
 
-    2 : The Adder Class.
+    2 : [The Adder Class](javaBasicCertification/theAdderClass/Solution2.java).
