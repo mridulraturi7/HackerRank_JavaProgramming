@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 
-The repository contains solutions of the Java Problems available on the HackerRank coding platform.
+The repository contains solutions of the Java Problems available on the [HackerRank](https://www.hackerrank.com/) coding platform.
 
 The problems are listed below : 
 
