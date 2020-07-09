@@ -24,7 +24,7 @@ The problems are listed below :
 
 6 : [Problem Statement](https://www.hackerrank.com/challenges/java-loops-i/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Loops 1](javaLoops1/Loop1.java).
 
-7 : [Java Loops 2](javaLoops2/Loop2.java).
+7 : [Problem Statement](https://www.hackerrank.com/challenges/java-loops/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Loops 2](javaLoops2/Loop2.java).
 
 8 : [Java Datatypes](javaDatatypes/Datatype.java).
 
