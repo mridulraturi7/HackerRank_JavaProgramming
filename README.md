@@ -14,7 +14,7 @@ The problems are listed below :
 
 1 : [Problem Statement](https://www.hackerrank.com/challenges/welcome-to-java/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Welcome to Java](welcomeToJava/Welcome.java).
 
-2 : [Java Stdin and Stdout 1](javaStdinAndStdout1/Stdin1.java).
+2 : [Problem Statement](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Stdin and Stdout 1](javaStdinAndStdout1/Stdin1.java).
 
 3 : [Java If - Else](javaIfElse/IfElse.java).
 
