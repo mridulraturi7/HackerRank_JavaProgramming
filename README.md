@@ -22,7 +22,7 @@ The problems are listed below :
 
 5 : [Problem Statement](https://www.hackerrank.com/challenges/java-output-formatting/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Output Formatting](javaOutputFormatting/OutputFormat.java).
 
-6 : [Problem STatement](https://www.hackerrank.com/challenges/java-loops-i/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Loops 1](javaLoops1/Loop1.java).
+6 : [Problem Statement](https://www.hackerrank.com/challenges/java-loops-i/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Loops 1](javaLoops1/Loop1.java).
 
 7 : [Java Loops 2](javaLoops2/Loop2.java).
 
