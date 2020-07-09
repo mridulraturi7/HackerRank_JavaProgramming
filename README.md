@@ -26,7 +26,7 @@ The problems are listed below :
 
 7 : [Problem Statement](https://www.hackerrank.com/challenges/java-loops/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Loops 2](javaLoops2/Loop2.java).
 
-8 : [Java Datatypes](javaDatatypes/Datatype.java).
+8 : [Problem Statement](https://www.hackerrank.com/challenges/java-datatypes/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Datatypes](javaDatatypes/Datatype.java).
 
 9 : [Java End of File](javaEndOfFile/EOF.java).
 
