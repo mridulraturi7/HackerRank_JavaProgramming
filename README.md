@@ -20,7 +20,7 @@ The problems are listed below :
 
 4 : [Problem Statement](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Stdin and Stdout 2](javaStdinAndStdout2/Stdin2.java).
 
-5 : [Java Output Formatting](javaOutputFormatting/OutputFormat.java).
+5 : [Problem STatement](https://www.hackerrank.com/challenges/java-output-formatting/problem)[Java Output Formatting] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - (javaOutputFormatting/OutputFormat.java).
 
 6 : [Java Loops 1](javaLoops1/Loop1.java).
 
