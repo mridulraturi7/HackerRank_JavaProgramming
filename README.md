@@ -58,7 +58,7 @@ The problems are listed below :
 
 23 : [Problem Statement](https://www.hackerrank.com/challenges/valid-username-checker/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Valid Username Regular Expression](javaValidUsername/UsernameRegex.java).
 
-24 : [Java Tag Content Extractor](javaTagContentExtractor/ContentExtractor.java).
+24 : [Problem Statement](https://www.hackerrank.com/challenges/tag-content-extractor/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Tag Content Extractor](javaTagContentExtractor/ContentExtractor.java).
 
 25 : [Java One Dimensional Array](javaOneDArray/OneDArray.java).
 
