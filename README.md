@@ -42,7 +42,7 @@ The problems are listed below :
 
 15 : [Problem Statement](https://www.hackerrank.com/challenges/java-substring/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Substring](javaSubstring/SubString.java).
 
-16 : [Java Substring Comparison](javaSubstringComparison/SubstringCompare.java).
+16 : [Problem Statement](https://www.hackerrank.com/challenges/java-string-compare/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Substring Comparison](javaSubstringComparison/SubstringCompare.java).
 
 17 : [Java String Reverse](javaStringReverse/StringReverse.java).
 
