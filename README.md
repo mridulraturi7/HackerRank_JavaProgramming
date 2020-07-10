@@ -66,7 +66,7 @@ The problems are listed below :
 
 27 : [Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-1/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Inheritance I](javaInheritance1/InheritanceOne.java).
 
-28 : [Java Inheritance II](javaInheritance2/InheritanceTwo.java).
+28 : [Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-2/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Inheritance II](javaInheritance2/InheritanceTwo.java).
 
 29 : [Java Exception Handling(Try - Catch)](javaExceptionHandlingTryCatch/TryCatch.java).
 
