@@ -72,7 +72,7 @@ The problems are listed below :
 
 30 : [Problem Statement](https://www.hackerrank.com/challenges/java-list/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java List](javaList/ListExample.java).
 
-31 : [Problem STatement](https://www.hackerrank.com/challenges/java-interface/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Interface](javaInterface/InterfaceExample.java).
+31 : [Problem Statement](https://www.hackerrank.com/challenges/java-interface/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Interface](javaInterface/InterfaceExample.java).
 
 32 : [Java Exception Handling](javaExceptionHandling/ExceptionHandling.java).
 
