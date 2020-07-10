@@ -50,7 +50,7 @@ The problems are listed below :
 
 19 : [Problem Statement](https://www.hackerrank.com/challenges/java-string-tokens/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java String Tokens](javaStringTokens/StringToken.java).
 
-20 : [Java Pattern Syntax Checker](javaPatternSyntaxChecker/SyntaxChecker.java).
+20 : [Problem Statement](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Pattern Syntax Checker](javaPatternSyntaxChecker/SyntaxChecker.java).
 
 21 : [Java Regex](javaRegex/Regex.java).
 
