@@ -40,7 +40,7 @@ The problems are listed below :
 
 14 : [Problem Statement](https://www.hackerrank.com/challenges/java-strings-introduction/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Strings Introduction](javaStringsIntroduction/StringIntro.java).
 
-15 : [Java Substring](javaSubstring/SubString.java).
+15 : [Problem Statement](https://www.hackerrank.com/challenges/java-substring/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Substring](javaSubstring/SubString.java).
 
 16 : [Java Substring Comparison](javaSubstringComparison/SubstringCompare.java).
 
