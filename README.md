@@ -68,7 +68,7 @@ The problems are listed below :
 
 28 : [Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-2/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Inheritance II](javaInheritance2/InheritanceTwo.java).
 
-29 : [Java Exception Handling(Try - Catch)](javaExceptionHandlingTryCatch/TryCatch.java).
+29 : [Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Exception Handling(Try - Catch)](javaExceptionHandlingTryCatch/TryCatch.java).
 
 30 : [Java List](javaList/ListExample.java).
 
