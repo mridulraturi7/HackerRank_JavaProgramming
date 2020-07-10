@@ -46,7 +46,7 @@ The problems are listed below :
 
 17 : [Problem Statement](https://www.hackerrank.com/challenges/java-string-reverse/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java String Reverse](javaStringReverse/StringReverse.java).
 
-18 : [Java Anagrams](javaAnagrams/Anagram.java).
+18 : [Problem Statement](https://www.hackerrank.com/challenges/java-anagrams/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Anagrams](javaAnagrams/Anagram.java).
 
 19 : [Java String Tokens](javaStringTokens/StringToken.java).
 
