@@ -70,7 +70,7 @@ The problems are listed below :
 
 29 : [Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Exception Handling(Try - Catch)](javaExceptionHandlingTryCatch/TryCatch.java).
 
-30 : [Java List](javaList/ListExample.java).
+30 : [Problem Statement](https://www.hackerrank.com/challenges/java-list/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java List](javaList/ListExample.java).
 
 31 : [Java Interface](javaInterface/InterfaceExample.java).
 
