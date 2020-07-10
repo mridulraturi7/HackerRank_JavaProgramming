@@ -52,7 +52,7 @@ The problems are listed below :
 
 20 : [Problem Statement](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Pattern Syntax Checker](javaPatternSyntaxChecker/SyntaxChecker.java).
 
-21 : [Java Regex](javaRegex/Regex.java).
+21 : [Problem Statement](https://www.hackerrank.com/challenges/java-regex/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Regex](javaRegex/Regex.java).
 
 22 : [Java Regex 2 - Duplicate Words](javaRegexTwo/DuplicateWords.java).
 
