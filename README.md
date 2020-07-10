@@ -64,7 +64,7 @@ The problems are listed below :
 
 26 : [Problem Statement](https://www.hackerrank.com/challenges/java-2d-array/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Two Dimensional Array](javaTwoDArray/TwoDArray.java).
 
-27 : [Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-1/problem)[Java Inheritance I](javaInheritance1/InheritanceOne.java).
+27 : [Problem Statement](https://www.hackerrank.com/challenges/java-inheritance-1/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Inheritance I](javaInheritance1/InheritanceOne.java).
 
 28 : [Java Inheritance II](javaInheritance2/InheritanceTwo.java).
 
