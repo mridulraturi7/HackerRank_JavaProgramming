@@ -54,7 +54,7 @@ The problems are listed below :
 
 21 : [Problem Statement](https://www.hackerrank.com/challenges/java-regex/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Regex](javaRegex/Regex.java).
 
-22 : [Java Regex 2 - Duplicate Words](javaRegexTwo/DuplicateWords.java).
+22 : [Problem Statement](https://www.hackerrank.com/challenges/duplicate-word/problem)[Java Regex 2 - Duplicate Words](javaRegexTwo/DuplicateWords.java).
 
 23 : [Java Valid Username Regular Expression](javaValidUsername/UsernameRegex.java).
 
