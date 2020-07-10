@@ -38,7 +38,7 @@ The problems are listed below :
 
 13 : [Problem Statement](https://www.hackerrank.com/challenges/java-currency-formatter/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Currency Formatter](javaCurrencyFormatter/CurrencyFormatter.java).
 
-14 : [Problem Statement]()[Java Strings Introduction](javaStringsIntroduction/StringIntro.java).
+14 : [Problem Statement](https://www.hackerrank.com/challenges/java-strings-introduction/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Strings Introduction](javaStringsIntroduction/StringIntro.java).
 
 15 : [Java Substring](javaSubstring/SubString.java).
 
