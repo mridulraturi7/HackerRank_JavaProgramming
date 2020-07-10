@@ -34,7 +34,7 @@ The problems are listed below :
 
 11 : [Problem Statement](https://www.hackerrank.com/challenges/java-int-to-string/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Int To String](javaIntToString/IntToString.java).
 
-12 : [Java Date And Time](javaDateAndTime/DateAndTime.java).
+12 : [Problem Statement](https://www.hackerrank.com/challenges/java-date-and-time/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Date And Time](javaDateAndTime/DateAndTime.java).
 
 13 : [Java Currency Formatter](javaCurrencyFormatter/CurrencyFormatter.java).
 
