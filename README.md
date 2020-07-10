@@ -56,7 +56,7 @@ The problems are listed below :
 
 22 : [Problem Statement](https://www.hackerrank.com/challenges/duplicate-word/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Regex 2 - Duplicate Words](javaRegexTwo/DuplicateWords.java).
 
-23 : [Java Valid Username Regular Expression](javaValidUsername/UsernameRegex.java).
+23 : [Problem Statement](https://www.hackerrank.com/challenges/valid-username-checker/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Valid Username Regular Expression](javaValidUsername/UsernameRegex.java).
 
 24 : [Java Tag Content Extractor](javaTagContentExtractor/ContentExtractor.java).
 
