@@ -44,7 +44,7 @@ The problems are listed below :
 
 16 : [Problem Statement](https://www.hackerrank.com/challenges/java-string-compare/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Substring Comparison](javaSubstringComparison/SubstringCompare.java).
 
-17 : [Java String Reverse](javaStringReverse/StringReverse.java).
+17 : [Problem Statement](https://www.hackerrank.com/challenges/java-string-reverse/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java String Reverse](javaStringReverse/StringReverse.java).
 
 18 : [Java Anagrams](javaAnagrams/Anagram.java).
 
