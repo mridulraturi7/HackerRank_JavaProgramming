@@ -36,9 +36,9 @@ The problems are listed below :
 
 12 : [Problem Statement](https://www.hackerrank.com/challenges/java-date-and-time/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Date And Time](javaDateAndTime/DateAndTime.java).
 
-13 : [Java Currency Formatter](javaCurrencyFormatter/CurrencyFormatter.java).
+13 : [Problem Statement](https://www.hackerrank.com/challenges/java-currency-formatter/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Currency Formatter](javaCurrencyFormatter/CurrencyFormatter.java).
 
-14 : [Java Strings Introduction](javaStringsIntroduction/StringIntro.java).
+14 : [Problem Statement]()[Java Strings Introduction](javaStringsIntroduction/StringIntro.java).
 
 15 : [Java Substring](javaSubstring/SubString.java).
 
