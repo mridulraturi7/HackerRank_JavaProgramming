@@ -48,7 +48,7 @@ The problems are listed below :
 
 18 : [Problem Statement](https://www.hackerrank.com/challenges/java-anagrams/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Anagrams](javaAnagrams/Anagram.java).
 
-19 : [Java String Tokens](javaStringTokens/StringToken.java).
+19 : [Problem Statement](https://www.hackerrank.com/challenges/java-string-tokens/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java String Tokens](javaStringTokens/StringToken.java).
 
 20 : [Java Pattern Syntax Checker](javaPatternSyntaxChecker/SyntaxChecker.java).
 
