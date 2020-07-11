@@ -90,7 +90,7 @@ The problems are listed below :
 
 39 : [Problem Statement](https://www.hackerrank.com/challenges/java-negative-subarray/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Subarray](javaSubArray/SubArray.java).
 
-40 : [Java ArrayList](javaArrayList/ArrayListExample.java).
+40 : [Problem Statement](https://www.hackerrank.com/challenges/java-arraylist/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java ArrayList](javaArrayList/ArrayListExample.java).
 
 41 : [Java Map](javaMap/MapExample.java).
 
