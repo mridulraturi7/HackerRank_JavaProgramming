@@ -76,7 +76,7 @@ The problems are listed below :
 
 32 : [Problem Statement](https://www.hackerrank.com/challenges/java-exception-handling/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Exception Handling](javaExceptionHandling/ExceptionHandling.java).
 
-33 : [Java BigInteger](javaBigInteger/BigIntegerExample.java).
+33 : [Problem Statement](https://www.hackerrank.com/challenges/java-biginteger/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java BigInteger](javaBigInteger/BigIntegerExample.java).
 
 34 : [Java Generics](javaGenerics/GenericsExample.java).
 
