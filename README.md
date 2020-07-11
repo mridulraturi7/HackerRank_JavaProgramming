@@ -84,7 +84,7 @@ The problems are listed below :
 
 36 : [Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Method Overriding Two (Super Keyword)](javaMethodOverridingTwo/MethodOverridingTwo.java).
 
-37 : [Java BigDecimal](javaBigDecimal/BigDecimalExample.java).
+37 : [Problem Statement](https://www.hackerrank.com/challenges/java-bigdecimal/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java BigDecimal](javaBigDecimal/BigDecimalExample.java).
 
 38 : [Java Primality Test](javaPrimalityTest/Primality.java).
 
