@@ -88,7 +88,7 @@ The problems are listed below :
 
 38 : [Problem Statement](https://www.hackerrank.com/challenges/java-primality-test/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Primality Test](javaPrimalityTest/Primality.java).
 
-39 : [Java Subarray](javaSubArray/SubArray.java).
+39 : [Problem Statement](https://www.hackerrank.com/challenges/java-negative-subarray/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Subarray](javaSubArray/SubArray.java).
 
 40 : [Java ArrayList](javaArrayList/ArrayListExample.java).
 
