@@ -82,7 +82,7 @@ The problems are listed below :
 
 35 : [Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Method Overriding](javaMethodOverriding/MethodOverriding.java).
 
-36 : [Java Method Overriding Two (Super Keyword)](javaMethodOverridingTwo/MethodOverridingTwo.java).
+36 : [Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Method Overriding Two (Super Keyword)](javaMethodOverridingTwo/MethodOverridingTwo.java).
 
 37 : [Java BigDecimal](javaBigDecimal/BigDecimalExample.java).
 
