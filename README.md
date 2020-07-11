@@ -80,7 +80,7 @@ The problems are listed below :
 
 34 : [Problem Statement](https://www.hackerrank.com/challenges/java-generics/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Generics](javaGenerics/GenericsExample.java).
 
-35 : [Java Method Overriding](javaMethodOverriding/MethodOverriding.java).
+35 : [Problem Statement](https://www.hackerrank.com/challenges/java-method-overriding/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Method Overriding](javaMethodOverriding/MethodOverriding.java).
 
 36 : [Java Method Overriding Two (Super Keyword)](javaMethodOverridingTwo/MethodOverridingTwo.java).
 
