@@ -78,7 +78,7 @@ The problems are listed below :
 
 33 : [Problem Statement](https://www.hackerrank.com/challenges/java-biginteger/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java BigInteger](javaBigInteger/BigIntegerExample.java).
 
-34 : [Java Generics](javaGenerics/GenericsExample.java).
+34 : [Problem Statement](https://www.hackerrank.com/challenges/java-generics/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Generics](javaGenerics/GenericsExample.java).
 
 35 : [Java Method Overriding](javaMethodOverriding/MethodOverriding.java).
 
