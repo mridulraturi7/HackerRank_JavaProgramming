@@ -86,7 +86,7 @@ The problems are listed below :
 
 37 : [Problem Statement](https://www.hackerrank.com/challenges/java-bigdecimal/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java BigDecimal](javaBigDecimal/BigDecimalExample.java).
 
-38 : [Problem STatement](https://www.hackerrank.com/challenges/java-primality-test/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Primality Test](javaPrimalityTest/Primality.java).
+38 : [Problem Statement](https://www.hackerrank.com/challenges/java-primality-test/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Primality Test](javaPrimalityTest/Primality.java).
 
 39 : [Java Subarray](javaSubArray/SubArray.java).
 
