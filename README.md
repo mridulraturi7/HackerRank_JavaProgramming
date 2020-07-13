@@ -102,7 +102,7 @@ The problems are listed below :
 
 > 43.2 : [Problem Statement](https://www.hackerrank.com/challenges/java-stack/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Using Stack](javaStack/UsingStack.java).
 
-44 : [Java HashSet](javaHashSet/HashSetExample.java).
+44 : [Problem Statement](https://www.hackerrank.com/challenges/java-hashset/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java HashSet](javaHashSet/HashSetExample.java).
 
 45 : [Java Comparator](javaComparator/ComparatorExample.java).
 
