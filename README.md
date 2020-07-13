@@ -94,7 +94,7 @@ The problems are listed below :
 
 41 : [Problem Statement](https://www.hackerrank.com/challenges/phone-book/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Map](javaMap/MapExample.java).
 
-42 : [Java 1D Array (Part 2)](javaOneDArrayPart2/Array2.java).
+42 : [Problem Statement](https://www.hackerrank.com/challenges/java-1d-array/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java 1D Array (Part 2)](javaOneDArrayPart2/Array2.java).
 
 43 : [Java Stack](javaStack).
 
