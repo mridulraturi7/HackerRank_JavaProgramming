@@ -92,7 +92,7 @@ The problems are listed below :
 
 40 : [Problem Statement](https://www.hackerrank.com/challenges/java-arraylist/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java ArrayList](javaArrayList/ArrayListExample.java).
 
-41 : [Java Map](javaMap/MapExample.java).
+41 : [Problem Statement](https://www.hackerrank.com/challenges/phone-book/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Map](javaMap/MapExample.java).
 
 42 : [Java 1D Array (Part 2)](javaOneDArrayPart2/Array2.java).
 
