@@ -108,7 +108,7 @@ The problems are listed below :
 
 46 : [Problem Statement](https://www.hackerrank.com/challenges/java-sort/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Sort](javaSort/SortExample.java).
 
-47 : [Java Dequeue](javaDeque/DequeExample.java).
+47 : [Problem Statement](https://www.hackerrank.com/challenges/java-dequeue/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Dequeue](javaDeque/DequeExample.java).
 
 48 : [Java BitSet](javaBitSet/BitSetExample.java).
 
