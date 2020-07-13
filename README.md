@@ -110,7 +110,7 @@ The problems are listed below :
 
 47 : [Problem Statement](https://www.hackerrank.com/challenges/java-dequeue/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Dequeue](javaDeque/DequeExample.java).
 
-48 : [Java BitSet](javaBitSet/BitSetExample.java).
+48 : [Problem Statement](https://www.hackerrank.com/challenges/java-bitset/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java BitSet](javaBitSet/BitSetExample.java).
 
 49 : [Java Priority Queue](javaPriorityQueue).
 
