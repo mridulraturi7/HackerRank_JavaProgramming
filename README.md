@@ -106,7 +106,7 @@ The problems are listed below :
 
 45 : [Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Comparator](javaComparator/ComparatorExample.java).
 
-46 : [Java Sort](javaSort/SortExample.java).
+46 : [Problem Statement](https://www.hackerrank.com/challenges/java-sort/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Sort](javaSort/SortExample.java).
 
 47 : [Java Dequeue](javaDeque/DequeExample.java).
 
