@@ -104,7 +104,7 @@ The problems are listed below :
 
 44 : [Problem Statement](https://www.hackerrank.com/challenges/java-hashset/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java HashSet](javaHashSet/HashSetExample.java).
 
-45 : [Java Comparator](javaComparator/ComparatorExample.java).
+45 : [Problem Statement](https://www.hackerrank.com/challenges/java-comparator/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Comparator](javaComparator/ComparatorExample.java).
 
 46 : [Java Sort](javaSort/SortExample.java).
 
