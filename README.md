@@ -118,7 +118,7 @@ The problems are listed below :
 
 > 49.2 : [Problem Statement](https://www.hackerrank.com/challenges/java-priority-queue/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Using Priority Queue](javaPriorityQueue/WithPriorityQueue.java).
 
-50 : [Java Abstract Class](javaAbstractClass/AbstractClass.java).
+50 : [Problem Satement]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Abstract Class](javaAbstractClass/AbstractClass.java).
 
 51 : [Java Instanceof Keyword](javaInstanceOfKeyword/InstanceOfExample.java).
 
