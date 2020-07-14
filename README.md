@@ -112,7 +112,7 @@ The problems are listed below :
 
 48 : [Problem Statement](https://www.hackerrank.com/challenges/java-bitset/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java BitSet](javaBitSet/BitSetExample.java).
 
-49 : [Java Priority Queue](javaPriorityQueue).
+49 : [Problem Stattement](https://www.hackerrank.com/challenges/java-priority-queue/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Priority Queue](javaPriorityQueue).
 
 > 49.1 : [Without using Priority Queue](javaPriorityQueue/WithoutPriorityQueue.java).
 
