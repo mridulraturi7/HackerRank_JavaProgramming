@@ -120,7 +120,7 @@ The problems are listed below :
 
 50 : [Problem Statement](https://www.hackerrank.com/challenges/java-abstract-class/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Abstract Class](javaAbstractClass/AbstractClass.java).
 
-51 : [Java Instanceof Keyword](javaInstanceOfKeyword/InstanceOfExample.java).
+51 : [Problem Statement](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Instanceof Keyword](javaInstanceOfKeyword/InstanceOfExample.java).
 
 52 : [Java Iterator](javaIterator/IteratorExample.java).
 
