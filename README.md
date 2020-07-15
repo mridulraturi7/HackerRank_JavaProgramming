@@ -122,7 +122,7 @@ The problems are listed below :
 
 51 : [Problem Statement](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Instanceof Keyword](javaInstanceOfKeyword/InstanceOfExample.java).
 
-52 : [Problem STate,ment](https://www.hackerrank.com/challenges/java-iterator/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Iterator](javaIterator/IteratorExample.java).
+52 : [Problem Statement](https://www.hackerrank.com/challenges/java-iterator/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Iterator](javaIterator/IteratorExample.java).
 
 53 : [Java Varargs](javaVarargs/Varargs.java).
 
