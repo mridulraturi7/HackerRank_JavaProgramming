@@ -130,7 +130,7 @@ The problems are listed below :
 
 55 : [Problem Statement](https://www.hackerrank.com/challenges/can-you-access/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Can You Access?](javaCanYouAccess/Access.java)
 
-56 : [Prime Checker](javaPrimeChecker/PrimeChecker.java).
+56 : [Problem Statement](https://www.hackerrank.com/challenges/prime-checker/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Prime Checker](javaPrimeChecker/PrimeChecker.java).
 
 57 : [Java Factory Pattern](javaFactoryPattern/FactoryPattern.java).
 
