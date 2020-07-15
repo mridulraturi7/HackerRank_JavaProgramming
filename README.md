@@ -124,7 +124,7 @@ The problems are listed below :
 
 52 : [Problem Statement](https://www.hackerrank.com/challenges/java-iterator/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Iterator](javaIterator/IteratorExample.java).
 
-53 : [Problem Statement](https://www.hackerrank.com/challenges/simple-addition-varargs/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Varargs](javaVarargs/Varargs.java).
+53 : [Problem Statement](https://www.hackerrank.com/challenges/simple-addition-varargs/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Varargs - Simple Addition](javaVarargs/Varargs.java).
 
 54 : [Java Reflection - Attributes](javaReflectionAttributes/ReflectionAttributes.java).
 
