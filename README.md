@@ -128,7 +128,7 @@ The problems are listed below :
 
 54 : [Problem Statement](https://www.hackerrank.com/challenges/java-reflection-attributes/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Reflection - Attributes](javaReflectionAttributes/ReflectionAttributes.java).
 
-55 : [Can You Access?](javaCanYouAccess/Access.java)
+55 : [Problem Statemen](https://www.hackerrank.com/challenges/can-you-access/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Can You Access?](javaCanYouAccess/Access.java)
 
 56 : [Prime Checker](javaPrimeChecker/PrimeChecker.java).
 
