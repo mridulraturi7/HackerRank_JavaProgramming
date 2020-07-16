@@ -134,7 +134,7 @@ The problems are listed below :
 
 57 : [Problem Statement](https://www.hackerrank.com/challenges/java-factory/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Factory Pattern](javaFactoryPattern/FactoryPattern.java).
 
-58 : [Probelme STatement]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Singleton Pattern](javaSingletonPattern/SingletonPattern.java).
+58 : [Probelme STatement](https://www.hackerrank.com/challenges/java-singleton/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Singleton Pattern](javaSingletonPattern/SingletonPattern.java).
 
 59 : [Java Visitor Pattern](javaVisitorPattern/VisitorPattern.java).
 
