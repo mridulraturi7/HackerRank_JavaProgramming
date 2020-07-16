@@ -138,7 +138,7 @@ The problems are listed below :
 
 59 : [Problem Statement](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Visitor Pattern](javaVisitorPattern/VisitorPattern.java).
 
-60 : [Problem STATment]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Annotations](javaAnnotations/Annotations.java).
+60 : [Problem Statement](https://www.hackerrank.com/challenges/java-annotations/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Annotations](javaAnnotations/Annotations.java).
 
 61 : [Covariant Return Types](javaCovariantReturnTypes/CovariantReturnType.java).
 
