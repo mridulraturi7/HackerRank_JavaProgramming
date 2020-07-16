@@ -132,7 +132,7 @@ The problems are listed below :
 
 56 : [Problem Statement](https://www.hackerrank.com/challenges/prime-checker/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Prime Checker](javaPrimeChecker/PrimeChecker.java).
 
-57 : [problem Statement](https://www.hackerrank.com/challenges/java-factory/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Factory Pattern](javaFactoryPattern/FactoryPattern.java).
+57 : [Problem Statement](https://www.hackerrank.com/challenges/java-factory/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Factory Pattern](javaFactoryPattern/FactoryPattern.java).
 
 58 : [Java Singleton Pattern](javaSingletonPattern/SingletonPattern.java).
 
