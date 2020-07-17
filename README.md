@@ -142,7 +142,7 @@ The problems are listed below :
 
 61 : [Problem Statement](https://www.hackerrank.com/challenges/java-covariance/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Covariant Return Types](javaCovariantReturnTypes/CovariantReturnType.java).
 
-62 : [Problem Statement]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Lambda Expressions](javaLambdaExpressions/Lambda.java).
+62 : [Problem Statement](https://www.hackerrank.com/challenges/java-lambda-expressions/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Lambda Expressions](javaLambdaExpressions/Lambda.java).
 
 63 : [Problem Statement]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java MD5](javaMD5/MD5Example.java).
 
