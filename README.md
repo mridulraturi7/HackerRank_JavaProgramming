@@ -144,7 +144,7 @@ The problems are listed below :
 
 62 : [Problem Statement](https://www.hackerrank.com/challenges/java-lambda-expressions/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Lambda Expressions](javaLambdaExpressions/Lambda.java).
 
-63 : [Problem Statement]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java MD5](javaMD5/MD5Example.java).
+63 : [Problem Statement](https://www.hackerrank.com/challenges/java-md5/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java MD5](javaMD5/MD5Example.java).
 
 64 : [Problem Statement]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java SHA-256](javaSHA256/SHA256Example.java).
 
