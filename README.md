@@ -146,7 +146,7 @@ The problems are listed below :
 
 63 : [Problem Statement](https://www.hackerrank.com/challenges/java-md5/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java MD5](javaMD5/MD5Example.java).
 
-64 : [Problem Statement]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java SHA-256](javaSHA256/SHA256Example.java).
+64 : [Problem Statement](https://www.hackerrank.com/challenges/java-md5/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java SHA-256](javaSHA256/SHA256Example.java).
 
 Total Problems - 64 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Completed - 64
 
