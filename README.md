@@ -140,7 +140,7 @@ The problems are listed below :
 
 60 : [Problem Statement](https://www.hackerrank.com/challenges/java-annotations/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Annotations](javaAnnotations/Annotations.java).
 
-61 : [Problem Statement]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Covariant Return Types](javaCovariantReturnTypes/CovariantReturnType.java).
+61 : [Problem Statement](https://www.hackerrank.com/challenges/java-covariance/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Covariant Return Types](javaCovariantReturnTypes/CovariantReturnType.java).
 
 62 : [Problem Statement]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Lambda Expressions](javaLambdaExpressions/Lambda.java).
 
