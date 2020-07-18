@@ -30,7 +30,7 @@ The problems are listed below :
 
 9 : [Problem Statement](https://www.hackerrank.com/challenges/java-end-of-file/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java End of File](javaEndOfFile/EOF.java).
 
-10 : [Problem Statement](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Static Initializer Block](javaStaticInitializerBlock/StaticBlock.java).
+10 : [Problem Statement](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Static Initializer Block](javaStaticInitializerBlock/StaticBlock.java).
 
 11 : [Problem Statement](https://www.hackerrank.com/challenges/java-int-to-string/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Int To String](javaIntToString/IntToString.java).
 
