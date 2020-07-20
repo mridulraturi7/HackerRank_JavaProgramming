@@ -116,7 +116,7 @@ The problems are listed below :
 
 > 49.1 : [Problem Statement](https://www.hackerrank.com/challenges/java-priority-queue/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Without using Priority Queue](javaPriorityQueue/WithoutPriorityQueue.java).
 
-> 49.2 : [Problem Statement](https://www.hackerrank.com/challenges/java-priority-queue/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Using Priority Queue](javaPriorityQueue/WithPriorityQueue.java).
+> 49.2 : [Problem Statement](https://www.hackerrank.com/challenges/java-priority-queue/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Using Priority Queue](javaPriorityQueue/WithPriorityQueue.java).
 
 50 : [Problem Statement](https://www.hackerrank.com/challenges/java-abstract-class/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Abstract Class](javaAbstractClass/AbstractClass.java).
 
