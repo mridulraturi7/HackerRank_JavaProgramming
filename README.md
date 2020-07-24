@@ -12,7 +12,7 @@ The repository contains solutions of the Java Problems available on the [HackerR
 
 The problems are listed below : 
 
-&nbsp; 01 : [Problem Statement](https://www.hackerrank.com/challenges/welcome-to-java/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Welcome to Java](welcomeToJava/Welcome.java).
+01 : [Problem Statement](https://www.hackerrank.com/challenges/welcome-to-java/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Welcome to Java](welcomeToJava/Welcome.java).
 
 &nbsp; 02 : [Problem Statement](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Stdin and Stdout 1](javaStdinAndStdout1/Stdin1.java).
 
