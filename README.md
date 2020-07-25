@@ -16,7 +16,7 @@ The problems are listed below :
 
 02 : [Problem Statement](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Stdin and Stdout 1](javaStdinAndStdout1/Stdin1.java).
 
-&nbsp; 03 : [Problem Statement](https://www.hackerrank.com/challenges/java-if-else/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java If - Else](javaIfElse/IfElse.java).
+03 : [Problem Statement](https://www.hackerrank.com/challenges/java-if-else/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java If - Else](javaIfElse/IfElse.java).
 
 &nbsp; 04 : [Problem Statement](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solution - [Java Stdin and Stdout 2](javaStdinAndStdout2/Stdin2.java).
 
